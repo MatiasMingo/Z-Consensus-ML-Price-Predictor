@@ -1,4 +1,4 @@
-Ticker, Earnings, Revenue, Percentage change, Market cap, Industry
+Ticker,Earnings,Revenue,Percentage change,Market cap,Industry
 SCHL,-62.96,14.99,-1.12,1184353664,Publishing
 FDS,-16.05,0.16,1.15,16725391360,Financial Data & Stock Exchanges
 FDX,22.97,0.71,-0.45,66738184192,Integrated Freight & Logistics
@@ -2354,11 +2354,3 @@ NGVT,-36.67,0.38,-1.56,1724643712,Specialty Chemicals
 NEWT,-90,11.91,-0.57,363895776,Banks—Regional
 PRA,20,1.28,-0.26,983504064,Insurance—Property & Casualty
 DAR,-15.63,1.62,0.66,8325430784,Packaged Foods
-PRGO,7.14,3.66,0.06,4325934080,Drug Manufacturers—Specialty & Generic
-FORG,50,3.64,0.29,1950605440,Software—Infrastructure
-EVER,3.70,2.09,1.27,241238352,Internet Content & Information
-QUIK,33.33,6.12,-0.7,119184824,Semiconductors
-AMRC,-10.26,10.28,1.61,2012862976,Engineering & Construction
-TREX,4.55,3.53,1.84,6690737664,Building Products & Equipment
-TTEC,20.27,4.69,-0.44,1243289472,Information Technology Services
-OXY,-12.02,3.95,-0.52,57398165504,Oil & Gas E&P
