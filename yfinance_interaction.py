@@ -9,13 +9,14 @@ def get_symbol_info(symbol):
     return market_cap, industry
 
 def get_price_change_day(symbol, datetime_obj):
-    first_date_str = datetime_obj.strftime("%Y-%m-%d")
-    second_day = datetime_obj + timedelta(days=7)
+    first_day = datetime_obj - timedelta(days=1)
+    first_date_str = first_day.strftime("%Y-%m-%d")
+    second_day = datetime_obj + timedelta(days=1)
     second_day_str = second_day.strftime("%Y-%m-%d")
     ticker = yf.Ticker(symbol)
     # Get historical data for the specified date
     historical_data = ticker.history(period="1d", start=first_date_str, end=second_day_str)
-    closing_price = historical_data["Close"][0]
+    closing_price = historical_data["Close"][-1]
     opening_price = historical_data["Open"][0]
     percentage_change = ((closing_price/opening_price) - 1)*100
     return percentage_change
@@ -31,7 +32,25 @@ def get_price_change_week(symbol, datetime_obj):
         ticker = yf.Ticker(symbol)
         # Get historical data for the specified date
         historical_data = ticker.history(period="1d", start=first_date_str, end=second_day_str)
-        closing_price = historical_data["Close"][0]
+        closing_price = historical_data["Close"][-1]
+        opening_price = historical_data["Open"][0]
+        percentage_change = ((closing_price/opening_price) - 1)*100
+        return percentage_change
+    else:
+        return None
+
+def get_price_change_month(symbol, datetime_obj):
+    first_date_str = datetime_obj.strftime("%Y-%m-%d")
+    current_datetime = datetime.now()
+    time_difference = current_datetime - datetime_obj
+    difference_in_days = time_difference.days
+    if difference_in_days >= 28:
+        second_day = datetime_obj + timedelta(days=28)
+        second_day_str = second_day.strftime("%Y-%m-%d")
+        ticker = yf.Ticker(symbol)
+        # Get historical data for the specified date
+        historical_data = ticker.history(period="1d", start=first_date_str, end=second_day_str)
+        closing_price = historical_data["Close"][-1]
         opening_price = historical_data["Open"][0]
         percentage_change = ((closing_price/opening_price) - 1)*100
         return percentage_change
