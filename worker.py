@@ -7,7 +7,9 @@ from datetime import datetime
 import pandas as pd
 import joblib
 import numpy as np
-
+import telegram_interaction
+import schedule
+import time
 
 
 
@@ -236,6 +238,21 @@ def predict_new_data():
         print(scaled_data_1D)
         print(scaled_data_1W)
         print(scaled_data_1M)
-        
+        propagate_notifications(scaled_data_1D, scaled_data_1W, scaled_data_1M)
+
+def propagate_notifications(df_1D, df_1W, df_1M):
+    current_datetime = datetime.now()
+    formatted_datetime = current_datetime.strftime("%d/%m/%Y - %H:%M")
+    notification = f"🛸🛸🛸🍇  New predictions  🍇🛸🛸🛸\n{formatted_datetime}\n\nTicker  1D  1W  1M \n\n"
+    for index, row in df_1D.iterrows():
+        notification += f"{row['Ticker']}:  {round(row['Percentage change'],2)}%  {round(float(df_1W[df_1W['Ticker'] == row['Ticker']]['Percentage change']),2)}%  {round(float(df_1M[df_1M['Ticker'] == row['Ticker']]['Percentage change']),2)}%\n\n"
+    telegram_interaction.send(notification)
+    
+
 if __name__ == "__main__":
-    predict_new_data()
+    predict_new_data()  # Run it immediately
+    schedule.every(1).hour.do(predict_new_data)  # Then schedule it to run every hour
+
+    while True:
+        schedule.run_pending()
+        time.sleep(3600)
