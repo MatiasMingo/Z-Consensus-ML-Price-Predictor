@@ -40,12 +40,14 @@ def write_new_data_json(data):
                 if symbol == ticker_dict['Ticker']:
                     it_exists = True
             if not it_exists:
-                print("DOES NOT EXIST")
                 datetime_list.append(new_earnings_dict)
                 new_data_list.append(new_earnings_dict)
         else:
             previous_dict[publish_datetime] = [new_earnings_dict]
-            new_data_list = [new_earnings_dict]
+            if len(new_data_list) == 0:
+                new_data_list = [new_earnings_dict]
+            else:
+                new_data_list.append(new_earnings_dict)
     with open(JSON_FILE, "w") as json_file:
         json.dump(previous_dict, json_file)
     return new_data_list
@@ -183,7 +185,6 @@ def data_preprocessing(new_data_list):
 
 def predict_new_data():
     new_data_list = scrape_content()
-    print(new_data_list)
     if len(new_data_list) > 0:
         x_1D, x_1W, x_1M = data_preprocessing(new_data_list)
         prediction_1D, prediction_1W, prediction_1M = predict_LSTM(x_1D, x_1W, x_1M)
@@ -251,8 +252,8 @@ def propagate_notifications(df_1D, df_1W, df_1M):
 
 if __name__ == "__main__":
     predict_new_data()  # Run it immediately
-    schedule.every(1).hour.do(predict_new_data)  # Then schedule it to run every hour
+    schedule.every(15).minutes.do(predict_new_data)  # Schedule it to run every 15 minutes
 
     while True:
         schedule.run_pending()
-        time.sleep(3600)
+        time.sleep(1)
