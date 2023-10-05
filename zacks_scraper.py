@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-from yfinance_interaction import get_symbol_info, get_price_change_day, get_price_change_week, get_price_change_month
+from lib.yfinance_interaction import get_symbol_info, get_price_change_day, get_price_change_week, get_price_change_month
 from datetime import datetime
-from csv_interaction import write_to_csv
+from lib.csv_interaction import write_to_csv
 
 
 BASE_URL = "https://www.zacks.com/topics/zacks-consensus-estimate?page="
