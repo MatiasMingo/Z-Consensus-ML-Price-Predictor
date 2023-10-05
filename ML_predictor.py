@@ -25,9 +25,9 @@ def predict_LSTM(x_1D, x_1W, x_1M):
     x_1W = x_1W.values.reshape(x_1W.shape[0], 1, x_1W.shape[1])
     x_1M = x_1M.values.reshape(x_1M.shape[0], 1, x_1M.shape[1])
     
-    model_1D = load_model("LSTM_1D.h5")
-    model_1W = load_model("LSTM_1W.h5")
-    model_1M = load_model("LSTM_1M.h5")
+    model_1D = load_model("models/LSTM_1D.h5")
+    model_1W = load_model("models/LSTM_1W.h5")
+    model_1M = load_model("models/LSTM_1M.h5")
     
     predictions_1D = model_1D.predict(x_1D)
     predictions_1W = model_1W.predict(x_1W)
@@ -42,6 +42,6 @@ def predict_LSTM(x_1D, x_1W, x_1M):
     result_1D = pd.concat([non_numerical_1D, df_1D], axis=1)
     result_1W = pd.concat([non_numerical_1W, df_1W], axis=1)
     result_1M = pd.concat([non_numerical_1M, df_1M], axis=1)
-    
+
     return result_1D, result_1W, result_1M
 
