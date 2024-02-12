@@ -10,6 +10,8 @@ import numpy as np
 import telegram_interaction
 import schedule
 import time
+import pytz
+
 
 
 
@@ -247,13 +249,28 @@ def propagate_notifications(df_1D, df_1W, df_1M):
     notification = f"🛸🛸🛸🍇  New predictions  🍇🛸🛸🛸\n{formatted_datetime}\n\nTicker  1D  1W  1M \n\n"
     for index, row in df_1D.iterrows():
         notification += f"{row['Ticker']}:  {round(row['Percentage change'],2)}%  {round(float(df_1W[df_1W['Ticker'] == row['Ticker']]['Percentage change']),2)}%  {round(float(df_1M[df_1M['Ticker'] == row['Ticker']]['Percentage change']),2)}%\n\n"
-    telegram_interaction.send(notification)
-    
+    telegram_interaction.send(notification)   
+
+def schedule_task():
+    # Define your time zone (Eastern Time)
+    eastern = pytz.timezone('US/Eastern')
+
+    # Get the current time in the specified time zone
+    current_time = datetime.now(eastern)
+
+    # Define the time ranges when the task should run
+    morning_start_time = current_time.replace(hour=5, minute=0, second=0, microsecond=0)
+    morning_end_time = current_time.replace(hour=13, minute=30, second=0, microsecond=0)
+    evening_start_time = current_time.replace(hour=18, minute=0, second=0, microsecond=0)
+    evening_end_time = current_time.replace(hour=20, minute=30, second=0, microsecond=0)
+
+    # Schedule the task to run every 15 minutes
+    while True:
+        if morning_start_time <= current_time <= morning_end_time or \
+           evening_start_time <= current_time <= evening_end_time:
+            predict_new_data()
+        time.sleep(900)  # 15 minutes in seconds
+        current_time = datetime.now(eastern)
 
 if __name__ == "__main__":
-    predict_new_data()  # Run it immediately
-    schedule.every(15).minutes.do(predict_new_data)  # Schedule it to run every 15 minutes
-
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
+    schedule_task()

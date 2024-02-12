@@ -4,6 +4,7 @@ import json
 from lib.yfinance_interaction import get_symbol_info, get_price_change_day, get_price_change_week, get_price_change_month
 from datetime import datetime
 from lib.csv_interaction import write_to_csv
+from time import sleep
 
 
 BASE_URL = "https://www.zacks.com/topics/zacks-consensus-estimate?page="
@@ -27,7 +28,7 @@ def get_datetime(date_string):
     return date_obj
 
 def scrape_content():
-    for i in range(604,10000):
+    for i in range(1,10000):
         current_url = BASE_URL+f'{i}'
         print(current_url)
         response = requests.get(current_url, headers=headers)
@@ -44,10 +45,17 @@ def scrape_content():
                     publish_datetime = get_datetime(" ".join(byline.find('time').text.split()[-2:]))
                     teaser = div_element.find('p', class_='teaser').text
                     teaser_elems = teaser.split()
-                    if teaser_elems[2] == 'delivered' and teaser_elems[3] == 'earnings':    
-                        symbol = teaser_elems[1].strip("(").strip(")")
-                        earnings = teaser_elems[8].strip("%")
-                        revenue = teaser_elems[10][:-1][:-1]
+                    space_count = 0
+                    try:
+                        index = teaser.index('(')
+                        single_chracters_list = list(teaser)
+                        space_count = single_chracters_list[0:index].count(' ')-1
+                    except ValueError:
+                        continue
+                    if teaser_elems[2+space_count] == 'delivered' and teaser_elems[3+ space_count] == 'earnings':
+                        symbol = teaser_elems[1+space_count].strip("(").strip(")")
+                        earnings = float(teaser_elems[8+space_count].strip("%"))
+                        revenue = float(teaser_elems[10+space_count][:-1][:-1])
                         market_cap, industry = get_symbol_info(symbol)
                         
                         # Day data
@@ -72,6 +80,7 @@ def scrape_content():
                             data_structure = [[symbol, earnings, revenue, percentage_change_month, market_cap, industry]]
                             file_path_week = "data/earnings_data_1M.csv"
                             write_to_csv(file_path_week, data_structure)
+                        sleep(0.1)
                 else:
                     print("Div element with class 'listitem' not found.")
             except Exception as e:

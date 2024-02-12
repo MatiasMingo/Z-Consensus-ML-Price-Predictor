@@ -1,1 +1,138 @@
-{"2023-10-05": [{"Ticker": "LW", "Earnings": 49.54, "Revenue": 4.45, "Market cap": 14425254912, "Industry": "Packaged Foods", "Datetime": "2023-10-05"}, {"Ticker": "CAG", "Earnings": 10.0, "Revenue": 1.42, "Market cap": 12565513216, "Industry": "Packaged Foods", "Datetime": "2023-10-05"}, {"Ticker": "STZ", "Earnings": 9.47, "Revenue": 0.46, "Market cap": 44046311424, "Industry": "Beverages - Wineries & Distilleries", "Datetime": "2023-10-05"}, {"Ticker": "LEVI", "Earnings": 3.7, "Revenue": 2.26, "Market cap": 5239971328, "Industry": "Apparel Manufacturing", "Datetime": "2023-10-05"}, {"Ticker": "AEHR", "Earnings": -10.0, "Revenue": 5.39, "Market cap": 1271590144, "Industry": "Semiconductor Equipment & Materials", "Datetime": "2023-10-05"}, {"Ticker": "CAMP", "Earnings": -100.0, "Revenue": 11.01, "Market cap": 16982906, "Industry": "Communication Equipment", "Datetime": "2023-10-05"}], "2023-10-04": [{"Ticker": "ACCD", "Earnings": 23.21, "Revenue": 2.65, "Market cap": 628493632, "Industry": "Health Information Services", "Datetime": "2023-10-04"}, {"Ticker": "RGP", "Earnings": 66.67, "Revenue": 0.72, "Market cap": 456605184, "Industry": "Consulting Services", "Datetime": "2023-10-04"}, {"Ticker": "TLRY", "Earnings": -100.0, "Revenue": 1.04, "Market cap": 1536976384, "Industry": "Drug Manufacturers - Specialty & Generic", "Datetime": "2023-10-04"}, {"Ticker": "ANGO", "Earnings": 14.29, "Revenue": 1.32, "Market cap": 280611168, "Industry": "Medical Instruments & Supplies", "Datetime": "2023-10-04"}, {"Ticker": "RPM", "Earnings": 5.13, "Revenue": 2.46, "Market cap": 12653751296, "Industry": "Specialty Chemicals", "Datetime": "2023-10-04"}, {"Ticker": "HELE", "Earnings": 8.75, "Revenue": 1.26, "Market cap": 2499631360, "Industry": "Household & Personal Products", "Datetime": "2023-10-04"}]}
+{
+    "2023-10-05": [
+        {
+            "Ticker": "LW",
+            "Earnings": 49.54,
+            "Revenue": 4.45,
+            "Market cap": 14425254912,
+            "Industry": "Packaged Foods",
+            "Datetime": "2023-10-05"
+        },
+        {
+            "Ticker": "CAG",
+            "Earnings": 10.0,
+            "Revenue": 1.42,
+            "Market cap": 12565513216,
+            "Industry": "Packaged Foods",
+            "Datetime": "2023-10-05"
+        },
+        {
+            "Ticker": "STZ",
+            "Earnings": 9.47,
+            "Revenue": 0.46,
+            "Market cap": 44046311424,
+            "Industry": "Beverages - Wineries & Distilleries",
+            "Datetime": "2023-10-05"
+        },
+        {
+            "Ticker": "LEVI",
+            "Earnings": 3.7,
+            "Revenue": 2.26,
+            "Market cap": 5239971328,
+            "Industry": "Apparel Manufacturing",
+            "Datetime": "2023-10-05"
+        },
+        {
+            "Ticker": "AEHR",
+            "Earnings": -10.0,
+            "Revenue": 5.39,
+            "Market cap": 1271590144,
+            "Industry": "Semiconductor Equipment & Materials",
+            "Datetime": "2023-10-05"
+        },
+        {
+            "Ticker": "CAMP",
+            "Earnings": -100.0,
+            "Revenue": 11.01,
+            "Market cap": 16982906,
+            "Industry": "Communication Equipment",
+            "Datetime": "2023-10-05"
+        }
+    ],
+    "2023-10-04": [
+        {
+            "Ticker": "ACCD",
+            "Earnings": 23.21,
+            "Revenue": 2.65,
+            "Market cap": 628493632,
+            "Industry": "Health Information Services",
+            "Datetime": "2023-10-04"
+        },
+        {
+            "Ticker": "RGP",
+            "Earnings": 66.67,
+            "Revenue": 0.72,
+            "Market cap": 456605184,
+            "Industry": "Consulting Services",
+            "Datetime": "2023-10-04"
+        },
+        {
+            "Ticker": "TLRY",
+            "Earnings": -100.0,
+            "Revenue": 1.04,
+            "Market cap": 1536976384,
+            "Industry": "Drug Manufacturers - Specialty & Generic",
+            "Datetime": "2023-10-04"
+        },
+        {
+            "Ticker": "ANGO",
+            "Earnings": 14.29,
+            "Revenue": 1.32,
+            "Market cap": 280611168,
+            "Industry": "Medical Instruments & Supplies",
+            "Datetime": "2023-10-04"
+        },
+        {
+            "Ticker": "RPM",
+            "Earnings": 5.13,
+            "Revenue": 2.46,
+            "Market cap": 12653751296,
+            "Industry": "Specialty Chemicals",
+            "Datetime": "2023-10-04"
+        },
+        {
+            "Ticker": "HELE",
+            "Earnings": 8.75,
+            "Revenue": 1.26,
+            "Market cap": 2499631360,
+            "Industry": "Household & Personal Products",
+            "Datetime": "2023-10-04"
+        }
+    ],
+    "2023-10-09": [
+        {
+            "Ticker": "APLD",
+            "Earnings": -400.0,
+            "Revenue": 4.27,
+            "Market cap": 549571008,
+            "Industry": "Capital Markets",
+            "Datetime": "2023-10-09"
+        },
+        {
+            "Ticker": "SAR",
+            "Earnings": 5.88,
+            "Revenue": 0.34,
+            "Market cap": 301387168,
+            "Industry": "Asset Management",
+            "Datetime": "2023-10-09"
+        }
+    ],
+    "2023-10-10": [
+        {
+            "Ticker": "NEOG",
+            "Earnings": -21.43,
+            "Revenue": 1.23,
+            "Market cap": 3668634624,
+            "Industry": "Diagnostics & Research",
+            "Datetime": "2023-10-10"
+        },
+        {
+            "Ticker": "PEP",
+            "Earnings": 3.69,
+            "Revenue": 0.32,
+            "Market cap": 222124949504,
+            "Industry": "Beverages - Non-Alcoholic",
+            "Datetime": "2023-10-10"
+        }
+    ]
+}
