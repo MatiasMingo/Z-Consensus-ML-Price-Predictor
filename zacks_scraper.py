@@ -28,7 +28,7 @@ def get_datetime(date_string):
     return date_obj
 
 def scrape_content():
-    for i in range(1,10000):
+    for i in range(43,10000):
         current_url = BASE_URL+f'{i}'
         print(current_url)
         response = requests.get(current_url, headers=headers)
