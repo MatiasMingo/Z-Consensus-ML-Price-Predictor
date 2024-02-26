@@ -1,40 +1,1807 @@
 Ticker,Earnings,Revenue,Percentage change,Market cap,Industry
-SCHL,-62.96,14.99,-1.83,1182957824,Publishing
-FDS,-16.05,0.16,3.15,16679808000,Financial Data & Stock Exchanges
-FDX,22.97,0.71,3.87,66606190592,Integrated Freight & Logistics
-SCS,82.35,3.29,25.71,1274072576,Business Equipment & Supplies
-AZO,4.38,1.96,5.37,45356601344,Specialty Retail
-ICMB,6.67,6.12,-7.93,57427272,Asset Management
-LEN,12.68,2.40,-0.45,31908448256,Residential Construction
-ADBE,3.02,0.72,-2.78,232157462528,Software—Infrastructure
-SMTC,450,0.55,10.54,1652490752,Semiconductors
-CASY,34.52,0.45,15.29,10118627328,Specialty Retail
-ORCL,4.39,0,-10.32,290155134976,Software—Infrastructure
-KR,4.35,1.16,2.58,32189388800,Grocery Stores
-DOCU,10.77,1.61,-12.91,8534609920,Software—Application
-SMAR,100,2.72,9.53,5467480576,Software—Application
-ZUMZ,34.33,2.33,-11.76,352587712,Apparel Retail
-RH,49.43,2.90,-16.12,4864276480,Specialty Retail
-LMNR,-86.67,8.07,-0.13,275436736,Farm Products
-TNP,3.12,4.86,-2.9,613126400,Oil & Gas Midstream
-TTC,-22.76,11.36,-6.35,8629436416,Tools & Accessories
-SCWX,37.50,3.32,-5.08,535521184,Software—Infrastructure
-SAIC,28.12,5.43,-4.28,5586802176,Information Technology Services
-MEI,-72.73,7.98,-15.79,822817088,Electronic Components
-KFY,7.61,2.37,-0.91,2500306176,Staffing & Employment Services
-PATH,200,1.93,15.25,9696886784,Software—Infrastructure
-CXM,100,3.04,-4.98,3743360000,Software—Application
-CTLP,-33.33,1.27,-10.94,454345600,Information Technology Services
-VRNT,-18.64,6.90,-20.06,1477592576,Software—Infrastructure
-YEXT,0,0.67,-27.45,787977408,Software—Infrastructure
-GME,80,1.83,-9.6,5024266240,Specialty Retail
-PHR,9.33,1.22,-29.8,1031298560,Health Information Services
-AKTS,-31.25,0.80,-34.23,54475928,Communication Equipment
-EXPR,18.25,1.20,-3.6,33707072,Apparel Retail
-ZS,30.61,5.71,3.77,22898022400,Software—Infrastructure
-AVAV,150,11.01,16.13,2932168192,Aerospace & Defense
-HQY,12.77,1.95,5.93,6255089664,Health Information Services
-AMRK,24.10,39.44,3.44,684685376,Capital Markets
+FGBI,-33.33,2.62,-7.52,141096784,Banks - Regional
+RMBS,4.44,1.49,-15.11,6310778368,Semiconductors
+BRBR,10.26,5.51,4.8,7777532928,Packaged Foods
+GLAD,-3.57,0.72,-4.49,435088992,Asset Management
+PINC,11.11,1.12,0.14,2544934400,Health Information Services
+FUNC,34.43,29.37,-3.24,147564880,Banks - Regional
+GBDC,-1.96,2.39,-0.2,2618495232,Asset Management
+CCK,-12.68,2.37,-14.86,9022964736,Packaging & Containers
+FMC,-1.83,8.26,-13.75,6492451328,Agricultural Inputs
+FN,1.96,1.85,-9.08,7427246080,Electronic Components
+FLXS,0.0,0.02,21.94,176601056,"Furnishings, Fixtures & Appliances"
+SYM,60.0,0.49,-10.17,26954426368,Specialty Industrial Machinery
+SKY,17.14,10.74,15.59,4687851520,Residential Construction
+KFRC,3.8,0.03,1.41,1361987840,Staffing & Employment Services
+VRTX,2.44,0.76,-0.49,109015629824,Biotechnology
+VRNS,17.39,1.62,14.87,5671225856,Software - Infrastructure
+PLTR,0.0,0.81,38.84,53333438464,Software - Infrastructure
+ALGT,116.42,1.59,1.99,1446334336,Airlines
+MLAB,-0.98,2.6,1.49,506231584,Scientific & Technical Instruments
+ON,3.31,0.7,6.88,34528182272,Semiconductors
+BOWL,-108.33,1.73,15.49,2218879744,Leisure
+SPHR,-572.6,5.04,13.08,1429098368,Entertainment
+NSSC,30.77,7.95,12.22,1679480960,Security & Protection Services
+MCD,4.98,1.04,0.86,210814910464,Restaurants
+IDXX,9.43,1.45,7.66,47639285760,Diagnostics & Research
+GHM,150.0,15.68,1.06,248400688,Specialty Industrial Machinery
+CAT,9.87,0.45,-5.29,163925426176,Farm & Heavy Construction Machinery
+CURO,-61.54,2.27,-65.28,14042175,Credit Services
+APD,-5.69,9.35,-3.15,48886259712,Specialty Chemicals
+CNA,27.88,5.07,0.35,12436880384,Insurance - Property & Casualty
+HAYN,-14.29,3.02,-0.1,763272896,Metal Fabrication
+IMO,16.77,21.66,2.33,31544633344,Oil & Gas Integrated
+ABBV,1.09,1.78,3.17,308598571008,Drug Manufacturers - General
+CBOE,1.98,1.2,1.76,19439255552,Financial Data & Stock Exchanges
+SAIA,4.39,0.65,13.68,15006599168,Trucking
+WT,0.0,1.05,-0.86,1062833152,Asset Management
+VRTS,2.52,1.44,-0.86,1682006144,Asset Management
+CHTR,-20.83,0.07,-18.08,42282254336,Telecom Services
+CHD,1.56,1.09,-1.79,24623394816,Household & Personal Products
+REGN,13.71,5.37,-2.55,103872249856,Biotechnology
+LYB,-2.33,4.39,2.57,30944133120,Specialty Chemicals
+XOM,12.22,8.14,0.21,412864577536,Oil & Gas Integrated
+CVX,4.86,10.29,2.12,285165027328,Oil & Gas Integrated
+JOUT,153.33,1.28,-0.57,468936864,Leisure
+CI,4.14,4.77,5.21,97968365568,Healthcare Plans
+DB,94.59,22.1,-8.24,25196621824,Banks - Regional
+MTX,2.4,3.35,4.62,2311593216,Specialty Chemicals
+POST,57.94,2.22,12.14,6460725760,Packaged Foods
+EMN,2.34,1.86,-1.47,9734728704,Specialty Chemicals
+RGA,7.5,13.18,-2.17,11012516864,Insurance - Reinsurance
+AAPL,4.31,1.66,2.95,2916202840064,Consumer Electronics
+PFSI,74.26,12.44,2.48,4576826368,Mortgage Finance
+DLB,13.48,1.48,-4.83,7713214464,Specialty Business Services
+ENSG,0.79,0.54,3.68,6737551872,Medical Care Facilities
+X,168.0,11.94,-2.17,10372153344,Steel
+BZH,-1.41,9.21,-10.93,928680960,Residential Construction
+DXC,12.99,1.21,-2.46,4043278080,Information Technology Services
+VIAV,37.5,1.89,-9.85,1983063040,Communication Equipment
+TEAM,17.74,4.03,-17.37,55001513984,Software - Application
+CVCO,-2.06,4.29,3.77,3018137856,Residential Construction
+MCHP,1.89,1.41,-2.5,46170750976,Semiconductors
+GEN,-2.0,0.29,-11.17,13598028800,Software - Infrastructure
+CLX,100.0,12.01,7.14,19139735552,Household & Personal Products
+KMPR,0.0,3.09,-2.88,3812465664,Insurance - Property & Casualty
+AMZN,24.69,2.23,9.41,1812081803264,Internet Retail
+SKX,7.69,2.77,-9.33,8926278656,Footwear & Accessories
+COLM,-7.0,1.96,-3.05,4843649536,Apparel Manufacturing
+HUBG,3.85,0.68,-2.63,2817084928,Integrated Freight & Logistics
+SKYW,281.82,4.85,10.88,2443106048,Airlines
+CLFD,12.5,13.72,11.0,436936032,Communication Equipment
+NECB,3.8,0.08,-10.96,225045360,Banks - Regional
+SNDR,-23.81,0.41,-0.04,4273534464,Trucking
+AROW,-8.0,5.46,-4.56,411702752,Banks - Regional
+TSCO,2.7,0.02,3.62,25415438336,Specialty Retail
+MTSI,1.75,3.99,-4.39,6025530368,Semiconductors
+PH,17.37,0.09,4.47,66950926336,Specialty Industrial Machinery
+LANC,16.27,0.63,-4.0,5194588672,Packaged Foods
+ATI,3.23,3.3,0.32,5390128128,Metal Fabrication
+RCI,14.47,1.79,-1.76,24319291392,Telecom Services
+RACE,9.43,2.16,2.22,70767968256,Auto Manufacturers
+HII,61.59,15.18,4.07,10843892736,Aerospace & Defense
+THR,18.0,6.4,-11.17,922097088,Specialty Industrial Machinery
+BSIG,32.76,2.85,-8.11,895744704,Asset Management
+PTON,1.82,0.38,-16.06,1665595776,Leisure
+PBI,133.33,2.56,-12.19,715903872,Integrated Freight & Logistics
+SIRI,28.57,0.42,-3.24,19173896192,Entertainment
+SR,7.3,4.33,0.26,3214332160,Utilities - Regulated Gas
+WEC,0.0,16.82,-1.62,24461985792,Utilities - Regulated Electric
+SRDX,100.0,3.23,-9.14,465801952,Medical Devices
+MO,0.85,1.2,-0.84,70732382208,Tobacco
+BR,4.55,0.94,-2.3,23436660736,Information Technology Services
+GOOS,-5.61,1.59,-8.08,1182064768,Apparel Manufacturing
+IP,20.59,1.91,-5.18,12200558592,Packaging & Containers
+FLWS,4.1,0.95,-2.21,599823680,Specialty Retail
+LAZ,88.57,16.1,-3.6,3413551616,Capital Markets
+SBH,8.33,0.44,3.95,1365589760,Specialty Retail
+DGX,0.47,1.8,2.72,14123271168,Diagnostics & Research
+CAH,16.67,1.1,1.61,25527302144,Medical Distribution
+MRK,133.33,0.45,3.09,320832077824,Drug Manufacturers - General
+DOV,0.41,3.09,5.66,22456541184,Specialty Industrial Machinery
+CMS,0.96,20.78,-1.47,16568331264,Utilities - Regulated Electric
+WRK,-42.86,4.36,-0.2,11003334656,Packaging & Containers
+RCL,10.62,1.34,-8.31,31019624448,Travel Services
+BDX,12.13,0.64,0.83,70419865600,Medical Instruments & Supplies
+TECH,-4.76,1.76,-1.1,10682759168,Biotechnology
+TT,1.88,0.01,1.84,62544711680,Building Products & Equipment
+BC,-12.65,5.17,2.49,5933022208,Recreational Vehicles
+OCSL,-6.56,1.51,-1.26,1557987328,Credit Services
+DLX,15.94,0.13,2.93,892200960,Advertising Agencies
+HON,0.0,2.71,-0.9,128448462848,Conglomerates
+BALL,1.3,3.45,-0.54,18656358400,Packaging & Containers
+SWK,26.03,3.09,-1.53,13686087680,Tools & Accessories
+ATKR,16.38,3.62,-1.41,5465609216,Electrical Equipment & Parts
+MKL,139.53,1.08,-6.77,18764838912,Insurance - Property & Casualty
+CLB,-5.0,0.32,-9.3,693899200,Oil & Gas Equipment & Services
+OBT,2.13,5.25,-11.59,259395136,Banks - Regional
+CCS,29.07,31.63,-0.61,2797435904,Residential Construction
+MXL,0.0,0.23,-18.73,1559876864,Semiconductors
+BOOT,0.56,0.01,10.48,2658306816,Apparel Retail
+MET,-1.03,3.61,-6.14,49329000448,Insurance - Life
+SNCY,100.0,1.32,6.62,816470656,Airlines
+KLIC,15.38,0.7,-8.35,2824379392,Semiconductor Equipment & Materials
+WOLF,12.7,1.19,-20.91,3650745088,Semiconductors
+EGHT,20.0,1.32,-20.0,351749824,Software - Application
+CNMD,-4.51,1.77,-12.88,2672981248,Medical Devices
+AFL,-14.97,14.97,-10.56,45254410240,Insurance - Life
+CHRW,-37.5,2.99,-13.2,8710330368,Integrated Freight & Logistics
+PTC,13.27,2.16,-3.18,21889972224,Software - Application
+QCOM,15.55,4.52,-0.85,168515993600,Semiconductors
+CACC,61.28,2.67,0.34,6961564160,Credit Services
+SEIC,0.0,0.72,2.56,8743014400,Asset Management
+BFIN,-19.05,2.38,-6.03,129998976,Banks - Regional
+LCNB,-5.56,5.27,-8.54,186274704,Banks - Regional
+HTLD,160.0,6.14,-4.25,1044895616,Trucking
+MA,3.25,1.39,2.33,428169560064,Credit Services
+BA,34.72,3.73,1.79,127652577280,Aerospace & Defense
+HES,13.99,9.38,2.26,44928077824,Oil & Gas E&P
+MHO,-25.91,17.99,-0.99,3407545344,Residential Construction
+FTV,5.38,0.99,2.82,29002889216,Scientific & Technical Instruments
+EXTR,-11.11,0.3,-9.47,1619423360,Communication Equipment
+RDCM,47.06,3.78,-6.16,158729232,Telecom Services
+NDAQ,2.86,5.0,-3.89,33031245824,Financial Data & Stock Exchanges
+ROK,-22.14,1.12,-1.49,32486832128,Specialty Industrial Machinery
+NYCB,-193.1,5.33,-29.53,3538123264,Banks - Regional
+ODFL,2.8,0.58,4.89,47500595200,Trucking
+ROP,0.92,2.43,3.38,58779873280,Software - Application
+SLGN,8.62,3.5,-5.79,4775370240,Packaging & Containers
+LII,4.91,0.79,-2.23,16265645056,Building Products & Equipment
+APTV,8.53,0.54,-2.09,22886531072,Auto Parts
+AVY,0.47,1.06,-2.41,16490393600,Packaging & Containers
+EAT,5.32,0.36,9.76,1991989376,Restaurants
+EVR,23.93,11.97,-4.12,6724182528,Capital Markets
+GIB,2.29,2.02,0.84,26624534528,Information Technology Services
+COR,14.69,5.0,3.07,46335008768,Medical Distribution
+MKTX,6.98,0.71,-21.23,8507554304,Capital Markets
+OTIS,2.35,1.27,0.86,36928843776,Specialty Industrial Machinery
+GPI,-9.44,2.39,1.93,3780104192,Auto & Truck Dealerships
+TMO,0.53,1.4,-0.54,212848902144,Diagnostics & Research
+RGS,63.87,3.56,-5.36,27034276,Personal Services
+CPF,14.58,8.39,-6.34,523320768,Banks - Regional
+GSK,-5.26,2.1,2.66,85039579136,Drug Manufacturers - General
+FSFG,7.27,14.24,-1.45,118046192,Banks - Regional
+ATGE,21.78,5.13,2.88,1975863936,Education & Training Services
+TER,9.72,0.85,-8.24,15641051136,Semiconductor Equipment & Materials
+ASH,114.29,1.14,13.33,4578685952,Specialty Chemicals
+FCF,12.82,2.54,-11.28,1363235328,Banks - Regional
+CB,63.71,3.92,2.32,100859215872,Insurance - Property & Casualty
+UNM,-3.76,0.76,0.96,9229645824,Insurance - Life
+MANH,28.75,6.37,10.55,15422332928,Software - Application
+JNPR,-4.69,2.97,-0.83,11920216064,Communication Equipment
+POWL,98.0,7.73,59.76,1762243840,Electrical Equipment & Parts
+MTCH,65.31,0.58,-6.71,9767878656,Internet Content & Information
+RNR,44.77,19.6,5.97,11935687680,Insurance - Reinsurance
+UMBF,30.11,4.37,-3.31,3965413376,Banks - Regional
+MOD,29.82,4.21,6.21,3820566784,Auto Parts
+FBIN,2.15,1.85,-4.54,10103992320,Building Products & Equipment
+LC,350.0,2.73,-2.02,952846912,Credit Services
+RHI,1.22,0.39,-0.75,8592320512,Staffing & Employment Services
+SYK,5.81,3.81,8.81,129923588096,Medical Devices
+SWKS,1.03,0.19,-4.11,16831741952,Semiconductors
+MDLZ,7.69,0.15,-0.38,100669480960,Confectioners
+MSFT,6.16,1.62,-1.6,3124871299072,Software - Infrastructure
+GOOGL,2.5,2.19,-5.97,1821525016576,Internet Content & Information
+HA,-0.85,0.02,-4.19,727558272,Airlines
+CCB,-29.79,26.37,-10.87,519133792,Banks - Regional
+NVR,2.47,7.22,0.51,23919071232,Residential Construction
+SYY,1.14,0.04,7.0,39602380800,Food Distribution
+CVLT,6.85,4.08,9.99,4142176000,Software - Application
+MAN,19.83,1.51,3.15,3559625728,Staffing & Employment Services
+HCA,16.83,4.52,3.54,81989918720,Medical Care Facilities
+MBUU,11.76,3.75,4.67,1000291968,Recreational Vehicles
+CATC,20.65,2.2,-8.74,528783328,Banks - Regional
+PNR,1.16,1.21,1.39,12311471104,Specialty Industrial Machinery
+JCI,2.0,0.52,-3.56,37823086592,Building Products & Equipment
+MSCI,11.85,5.01,0.56,46855208960,Financial Data & Stock Exchanges
+PFE,152.63,0.8,-4.73,155671543808,Drug Manufacturers - General
+PHM,2.5,4.2,-3.21,21902770176,Residential Construction
+CALB,0.0,0.93,-7.54,196365488,Banks - Regional
+JBLU,32.14,1.43,8.77,1979736576,Airlines
+MDC,8.33,4.1,0.21,4658864128,Residential Construction
+DHR,10.0,6.93,0.73,181746991104,Diagnostics & Research
+PII,-25.84,1.59,2.29,5142404096,Recreational Vehicles
+SMBC,-4.46,1.99,-15.74,487356160,Banks - Regional
+CLS,11.76,3.06,12.37,4602124800,Electronic Components
+HITI,166.67,1.07,-5.29,136743280,Pharmaceutical Retailers
+FINW,6.67,9.22,-11.94,135930368,Banks - Regional
+CALX,16.22,0.02,-18.21,2281632768,Software - Application
+SFBS,4.6,1.94,-2.87,3407662336,Banks - Regional
+NUE,11.66,1.86,4.5,45858807808,Steel
+GABC,8.96,0.08,-1.44,960911040,Banks - Regional
+HLIT,30.0,4.24,16.39,1539975936,Communication Equipment
+CLF,28.57,0.97,9.24,9901002752,Steel
+MBIN,9.72,11.31,-5.38,1750905088,Banks - Regional
+WWD,31.82,6.41,-2.57,8315162624,Aerospace & Defense
+FFIV,13.2,0.8,0.78,10973825024,Software - Infrastructure
+TRNS,8.57,2.85,15.24,994336640,Industrial Distribution
+CZWI,46.15,2.35,-0.64,121319768,Banks - Regional
+BEN,14.04,4.11,-4.3,14269722624,Asset Management
+BSRR,-38.57,2.18,-8.02,277383744,Banks - Regional
+BSVN,250.0,33.01,9.6,253396624,Banks - Regional
+PROV,19.23,3.51,1.0,100367880,Banks - Regional
+TBNK,-42.86,2.84,-8.55,82175744,Banks - Regional
+UBAB,58.6,47.65,0.75,144487440,Banks - Regional
+MPB,19.67,0.21,-10.37,345064416,Banks - Regional
+FSRL,0.0,10.42,-0.12,39778980,Banks - Regional
+BMI,5.0,0.96,-4.19,4398513664,Scientific & Technical Instruments
+FHB,-17.78,4.29,-0.19,2706798848,Banks - Regional
+GNTX,13.64,4.9,1.16,8238495744,Auto Parts
+NSC,-2.41,1.17,10.23,57561509888,Railroads
+UBSI,-1.49,2.03,-5.63,4758301184,Banks - Regional
+STEL,-1.79,4.72,-5.9,1303497856,Banks - Regional
+CL,2.35,1.06,5.64,69377376256,Household & Personal Products
+BKU,0.0,4.02,-9.67,1992439296,Banks - Regional
+BAH,24.78,1.54,1.62,19032440832,Consulting Services
+ALV,15.08,0.19,5.13,9090674688,Auto Parts
+FCNCA,-3.94,3.93,7.43,21281163264,Banks - Regional
+SBSI,-10.94,5.18,2.47,916847168,Banks - Regional
+HTBK,-8.33,4.61,-9.01,508129920,Banks - Regional
+FRST,25.0,8.48,4.02,310146592,Banks - Regional
+FFIC,8.7,9.53,-5.76,383629152,Banks - Regional
+FLIC,0.0,3.64,-7.54,255728976,Banks - Regional
+MYFW,-90.91,5.44,-6.83,151191024,Banks - Regional
+BCML,-3.51,1.17,-5.77,231141520,Banks - Regional
+FBIZ,0.88,2.57,-1.66,291931936,Banks - Regional
+USCB,-22.73,9.27,-0.9,222572288,Banks - Regional
+HTH,10.0,1.78,-8.38,2013879168,Banks - Regional
+TCBX,21.28,4.64,-1.4,266516080,Banks - Regional
+PGC,-10.71,1.18,-4.34,420078048,Banks - Regional
+CHMG,-30.77,1.08,-5.25,208415360,Banks - Regional
+BY,8.96,0.28,-7.77,910293248,Banks - Regional
+WSFS,6.48,6.79,-4.3,2558941184,Banks - Regional
+FISI,-16.44,9.87,-8.93,292578912,Banks - Regional
+WY,14.29,4.0,-2.76,24286179328,REIT - Specialty
+WAL,-1.04,2.08,-4.93,6740314112,Banks - Regional
+SBFG,62.86,12.8,0.13,104160000,Banks - Regional
+CVRX,20.0,3.72,-13.29,508826112,Medical Devices
+FFBC,1.64,2.65,-5.48,2110231808,Banks - Regional
+MSBI,12.66,3.89,-3.77,533828192,Banks - Regional
+APPF,23.94,5.55,22.38,8490941440,Software - Application
+EBC,-52.38,4.24,-1.27,2455864064,Banks - Regional
+ABCB,-4.46,1.83,-7.89,3316629760,Banks - Regional
+AJG,1.09,1.1,-3.27,51753283584,Insurance Brokers
+SSB,8.44,0.15,-0.57,6264212992,Banks - Regional
+PCB,-14.58,2.1,-6.48,228309008,Banks - Regional
+LEVI,4.76,1.18,2.71,7096005120,Apparel Manufacturing
+CLBK,28.57,3.08,-6.35,1816147840,Banks - Regional
+COF,-10.4,0.56,2.25,51498553344,Credit Services
+LHX,1.21,0.98,1.62,39773073408,Aerospace & Defense
+RVSB,-30.0,5.5,-5.34,103550640,Banks - Regional
+TMUS,-12.11,3.99,-0.89,192498450432,Telecom Services
+BPRN,6.49,3.71,-6.42,198701712,Banks - Regional
+BSET,350.0,4.52,1.44,135692816,"Furnishings, Fixtures & Appliances"
+ACNB,-50.0,19.05,-16.78,315434336,Banks - Regional
+OSIS,27.01,2.95,-6.47,2337034240,Electronic Components
+BCBP,-5.41,0.66,-9.08,179768160,Banks - Regional
+ESQ,-1.67,0.26,-7.32,393507104,Banks - Regional
+CASS,27.08,4.98,-0.94,595390720,Specialty Business Services
+CRS,0.0,6.78,-5.51,3130769664,Metal Fabrication
+STBA,11.63,3.07,-4.44,1219244032,Banks - Regional
+NTCT,92.11,9.0,-11.19,1488895744,Software - Infrastructure
+FNWB,-110.0,35.99,4.45,132355592,Banks - Regional
+FMBH,13.25,2.76,-6.4,746979584,Banks - Regional
+BPOP,84.76,0.45,0.77,6100587008,Banks - Regional
+VLY,-12.0,3.41,-5.22,4279995648,Banks - Regional
+TCBK,-7.14,1.34,-10.0,1155068416,Banks - Regional
+ORI,-4.17,0.23,-7.73,7814134784,Insurance - Diversified
+NOC,9.04,1.93,0.04,68254380032,Aerospace & Defense
+SHW,0.56,0.81,3.18,79899893760,Specialty Chemicals
+MMC,5.0,0.62,1.22,97371725824,Insurance Brokers
+CMCSA,5.0,2.77,6.5,166698582016,Telecom Services
+BFH,223.29,3.03,25.59,1749262976,Credit Services
+CNX,151.85,2.79,-0.49,3066187520,Oil & Gas E&P
+RES,58.33,9.29,2.52,1509276544,Oil & Gas Equipment & Services
+HZO,-66.07,1.35,4.24,733879808,Specialty Retail
+XRX,-15.69,1.6,20.26,2275700992,Information Technology Services
+VLO,20.34,4.58,4.85,48705204224,Oil & Gas Refining & Marketing
+HUM,-57.14,1.35,7.82,45257101312,Healthcare Plans
+EXP,4.49,4.02,7.75,8384498688,Building Materials
+MKC,7.59,1.78,2.48,17652942848,Packaged Foods
+AIT,6.16,1.55,-1.81,7267159040,Industrial Distribution
+MBLY,3.7,0.1,-7.48,22338359296,Auto Parts
+AMAL,-1.37,7.17,0.23,734845184,Banks - Regional
+BANC,-43.75,23.13,5.35,2236924416,Banks - Regional
+XEL,-2.35,13.34,1.47,32099135488,Utilities - Regulated Electric
+VIRT,-35.71,4.41,-7.65,2646608640,Capital Markets
+DOW,7.5,2.95,-2.12,37916798976,Chemicals
+MUR,-12.62,0.81,1.84,5834680832,Oil & Gas E&P
+FBMS,-15.71,16.77,-5.87,760817152,Banks - Regional
+ALRS,-17.24,4.41,13.11,443819904,Banks - Regional
+CVBF,2.63,2.7,-7.17,2393946880,Banks - Regional
+EQBK,18.46,108.28,3.46,501417408,Banks - Regional
+FRBA,32.43,9.54,0.55,341813280,Banks - Regional
+CATY,13.64,3.68,-1.26,2889315072,Banks - Regional
+SLM,-17.24,1.76,6.42,4317880320,Credit Services
+OSBC,-22.22,3.98,-8.43,599845824,Banks - Regional
+INBK,100.0,11.05,20.51,279475072,Banks - Regional
+LBRT,-5.26,0.58,18.8,3294600448,Oil & Gas Equipment & Services
+OBK,-6.25,7.95,-4.99,937329536,Banks - Regional
+PLXS,-0.95,1.0,-3.86,2693245184,Electronic Components
+CACI,-3.11,0.09,0.15,8041355264,Information Technology Services
+HXL,-12.24,2.05,-8.89,6151041024,Aerospace & Defense
+ETD,-11.84,6.65,2.23,779767744,"Furnishings, Fixtures & Appliances"
+BRKL,13.04,2.46,4.98,902712000,Banks - Regional
+URI,3.78,2.76,9.54,43698057216,Rental & Leasing Services
+RLI,6.94,2.03,-5.16,6433870848,Insurance - Property & Casualty
+AMP,1.04,3.1,0.65,39773388800,Asset Management
+EGBN,-11.84,0.29,-1.07,702353792,Banks - Regional
+WRB,7.41,1.3,4.75,20646742016,Insurance - Property & Casualty
+CASH,-13.82,1.59,2.66,1313540864,Banks - Regional
+RMD,3.87,0.46,9.07,27157041152,Medical Instruments & Supplies
+HBNC,13.79,57.65,-2.82,552209664,Banks - Regional
+TSLA,-5.33,2.97,-9.58,616479850496,Auto Manufacturers
+FBNC,9.09,2.61,1.94,1458993920,Banks - Regional
+AMSC,142.86,15.57,31.12,408701568,Specialty Industrial Machinery
+LVS,-9.52,1.3,-0.98,40409157632,Resorts & Casinos
+KNX,-80.85,0.52,1.1,9670853632,Trucking
+WASH,40.74,3.0,-2.02,449277760,Banks - Regional
+IBM,2.38,0.59,7.5,170150592512,Information Technology Services
+STX,271.43,0.29,-2.81,18732380160,Computer Hardware
+CSX,2.27,1.16,2.43,73255051264,Railroads
+CFFN,66.67,24.11,8.22,817108672,Banks - Regional
+FCCO,16.22,1.96,-0.73,130826128,Banks - Regional
+PGR,24.37,3.03,-1.04,107086528512,Insurance - Property & Casualty
+BLFY,7.14,1.12,2.55,220344896,Banks - Regional
+FMNB,13.89,3.06,1.36,524291936,Banks - Regional
+APH,6.49,5.89,1.67,63158730752,Electronic Components
+FCX,28.57,1.45,-1.67,54663282688,Copper
+SYBT,-7.87,4.76,7.17,1373730944,Banks - Regional
+UCBI,1.92,12.65,-0.62,3241832448,Banks - Regional
+MNRO,-2.5,2.11,9.43,981087936,Auto Parts
+ABT,0.0,0.71,2.47,195185590272,Medical Devices
+KMB,-1.31,0.32,1.66,40516984832,Household & Personal Products
+TDY,7.51,1.42,-4.38,20479576064,Scientific & Technical Instruments
+TXT,4.58,0.65,4.22,17168109568,Aerospace & Defense
+PB,0.85,2.07,5.33,5931665408,Banks - Regional
+TEL,6.98,1.44,1.28,44482498560,Electronic Components
+ELV,1.26,1.51,0.58,118908051456,Healthcare Plans
+BKR,8.51,1.08,-2.47,29288992768,Oil & Gas Equipment & Services
+BUSE,6.12,0.85,1.67,1290502272,Banks - Regional
+FCBC,17.91,1.3,-0.41,622605760,Banks - Regional
+VBTX,-9.38,30.4,-3.12,1098170880,Banks - Regional
+QCRH,44.85,26.85,7.15,964592192,Banks - Regional
+TRMK,7.02,0.2,0.99,1656251008,Banks - Regional
+CNI,1.37,1.14,-0.57,82374811648,Railroads
+HAFC,1.67,5.7,-8.86,469803808,Banks - Regional
+NBTB,-2.7,0.87,-7.55,1613702400,Banks - Regional
+BHB,1.49,0.65,-1.63,387948032,Banks - Regional
+LRN,14.93,0.22,-2.27,2712993536,Education & Training Services
+ORRF,-10.98,0.03,0.45,279318368,Banks - Regional
+WNEB,-14.29,1.18,3.03,173984400,Banks - Regional
+EWBC,6.88,1.89,3.09,9719275520,Banks - Diversified
+TXN,2.05,0.89,-5.03,147668369408,Semiconductors
+CCNE,14.81,3.14,2.69,431719616,Banks - Regional
+NFLX,-4.09,1.33,17.03,242916851712,Entertainment
+GATX,11.54,6.64,-0.13,4515868672,Rental & Leasing Services
+ONB,-4.17,4.84,0.93,4726378496,Banks - Regional
+WBS,0.0,5.93,3.06,8040308736,Banks - Regional
+LMT,8.82,4.96,-6.67,103181869056,Aerospace & Defense
+SASR,13.21,3.23,-1.64,1033012800,Banks - Regional
+VZ,0.93,0.9,2.39,167785627648,Telecom Services
+RTX,3.2,0.49,2.1,120794644480,Aerospace & Defense
+IVZ,20.51,5.61,-1.44,7152408064,Asset Management
+PG,8.24,0.49,1.99,373283717120,Household & Personal Products
+AUB,4.0,4.17,-1.24,2520782592,Banks - Regional
+HAL,7.5,0.8,7.86,31180265472,Oil & Gas Equipment & Services
+CBU,-9.52,0.47,-1.7,2393315840,Banks - Regional
+MMYT,16.67,2.0,2.2,6280893952,Travel Services
+DHI,-2.08,1.35,-5.59,48083603456,Residential Construction
+MMM,4.76,4.25,-4.44,51511656448,Conglomerates
+FOR,35.71,12.05,-17.56,1614698368,Real Estate - Development
+SYF,7.29,0.34,3.89,15818067968,Credit Services
+GSBC,-2.63,2.54,-3.11,601198080,Banks - Regional
+SMBK,-4.65,0.11,4.47,373755808,Banks - Regional
+IBTX,-4.62,4.34,-0.56,1870895744,Banks - Regional
+RBB,22.86,19.79,5.63,332546432,Banks - Regional
+EFSC,1.68,5.5,-2.46,1493272576,Banks - Regional
+PRK,4.17,7.17,2.5,2122542976,Banks - Regional
+CFB,8.33,1.18,12.19,672448320,Banks - Regional
+CBNK,4.84,3.89,0.52,288891872,Banks - Regional
+AGYS,52.17,0.9,5.63,2476036864,Software - Application
+AGNC,22.45,107.4,-0.41,6554191872,REIT - Mortgage
+ZION,29.0,1.83,4.73,5939453440,Banks - Regional
+NWBI,0.0,1.81,7.46,1513880064,Banks - Regional
+BOH,-19.1,1.84,-2.54,2453406976,Banks - Regional
+PBAM,-6.21,2.77,0.57,205258912,Banks - Regional
+STT,12.71,3.43,-6.53,21993598976,Asset Management
+WRLD,75.31,2.07,7.52,795179008,Credit Services
+TRV,39.09,0.24,0.59,48948899840,Insurance - Property & Casualty
+SLB,2.38,0.09,5.91,68196319232,Oil & Gas Equipment & Services
+CMA,5.8,5.34,5.31,6772962304,Banks - Regional
+HBAN,3.85,1.2,5.63,17973651456,Banks - Regional
+FITB,10.0,0.42,1.96,22919856128,Banks - Regional
+RF,8.33,0.56,6.57,16632000512,Banks - Regional
+FNB,8.57,15.66,3.6,4718601216,Banks - Regional
+SFST,30.77,4.76,4.8,274932896,Banks - Regional
+INDB,0.8,0.23,-1.98,2269707264,Banks - Regional
+BANF,1.39,2.05,4.5,2921815808,Banks - Regional
+OCFC,4.65,2.49,9.01,935112320,Banks - Regional
+PPG,2.0,1.96,-1.84,32912963584,Specialty Chemicals
+JBHT,-15.52,2.09,6.09,22252167168,Integrated Freight & Logistics
+CVCY,-3.85,2.37,1.36,208705872,Banks - Regional
+MCB,-15.23,4.26,4.56,470164736,Banks - Regional
+OZK,2.74,3.78,6.26,4814490112,Banks - Regional
+BANR,2.29,1.98,1.4,1528160384,Banks - Regional
+WABC,-1.33,0.82,-6.23,1202862080,Banks - Regional
+HOMB,6.67,2.98,7.96,4776166400,Banks - Regional
+NTRS,9.77,7.18,-4.85,16336234496,Asset Management
+FAST,2.22,0.58,4.24,40067756032,Industrial Distribution
+FHN,3.23,2.02,12.0,7705433088,Banks - Regional
+KEY,13.64,0.76,7.36,13008873472,Banks - Regional
+IIIN,20.0,6.13,-5.74,711029888,Metal Fabrication
+MTB,-23.43,1.14,6.78,22152644608,Banks - Regional
+TFC,-7.95,1.1,3.73,47801241600,Banks - Regional
+CBSH,2.44,2.32,2.36,6659804160,Banks - Regional
+SNV,-14.89,7.38,8.97,5276978688,Banks - Regional
+WTFC,-23.36,0.79,6.29,5748936704,Banks - Regional
+DFS,-38.4,2.41,-6.93,27301332992,Credit Services
+AA,43.43,0.71,8.61,4945447424,Aluminum
+FUL,2.33,2.61,0.73,4190820352,Specialty Chemicals
+PLBC,3.25,0.05,5.76,214797776,Banks - Regional
+USB,0.0,1.23,1.5,62896566272,Banks - Regional
+CFG,-43.33,0.69,4.72,14692166656,Banks - Regional
+PNFP,1.82,3.45,6.04,6267077632,Banks - Regional
+PRGS,12.09,1.99,10.39,2516965632,Software - Application
+HWC,9.57,7.49,6.07,3713978368,Banks - Regional
+IBKR,-1.3,1.99,2.52,40871407616,Capital Markets
+MS,7.62,1.54,-1.16,140972113920,Capital Markets
+GS,57.93,5.71,2.01,125566189568,Capital Markets
+GNTY,8.51,3.47,4.8,342986624,Banks - Regional
+PNC,5.69,1.58,1.16,58880434176,Banks - Regional
+FBK,8.45,4.24,6.74,1709516416,Banks - Regional
+MBWM,2.46,1.7,2.66,613582848,Banks - Regional
+JPM,6.43,1.5,-3.67,503451222016,Banks - Diversified
+BAC,1.45,8.79,-1.61,261497716736,Banks - Diversified
+BK,14.29,0.42,-0.65,41930977280,Asset Management
+DAL,9.4,1.09,-5.13,26066683904,Airlines
+BLK,9.28,0.13,1.31,118385688576,Asset Management
+UNH,3.01,2.57,-0.49,481044398080,Healthcare Plans
+BBCP,0.0,0.11,-3.55,439655392,Engineering & Construction
+NTIC,-44.44,3.9,1.25,128878224,Specialty Chemicals
+KBH,9.47,4.11,-3.57,4620300288,Residential Construction
+AZZ,20.2,0.96,2.46,1743847680,Specialty Business Services
+SGH,50.0,0.27,19.34,1184317824,Semiconductors
+AEHR,27.78,6.62,-20.01,496494720,Semiconductor Equipment & Materials
+JEF,15.38,1.64,-0.87,8655506432,Capital Markets
+CMC,13.99,5.28,1.15,6297754624,Steel
+HELE,1.09,1.28,2.04,2766930432,Household & Personal Products
+GBX,35.21,8.77,-0.84,1493912960,Railroads
+STZ,5.28,3.15,5.28,44434432000,Beverages - Wineries & Distilleries
+ANGO,44.44,3.15,-2.88,245109712,Medical Instruments & Supplies
+FC,89.47,3.83,-0.5,534503808,Consulting Services
+KRUS,-63.64,0.91,25.81,1143141760,Restaurants
+LW,3.57,2.16,0.34,14564288512,Packaged Foods
+CAG,5.97,0.98,-1.95,13431945216,Packaged Foods
+SMPL,4.88,0.18,0.66,3581255424,Packaged Foods
+WBA,4.76,5.1,2.03,19437938688,Pharmaceutical Retailers
+RPM,-0.81,2.08,3.95,13893690368,Specialty Chemicals
+LNN,7.94,0.78,8.22,1439642752,Farm & Heavy Construction Machinery
+RGP,27.27,0.52,-10.28,442978400,Consulting Services
+UNF,2.15,0.46,-7.51,3202609152,Specialty Business Services
+UNF,-3.0,0.46,-7.51,3202609152,Specialty Business Services
+PROC,60.0,7.26,17.63,366678016,Drug Manufacturers - Specialty & Generic
+PFX,15.38,13.56,6.38,92206928,Asset Management
+LMNR,0.0,13.01,10.53,323353952,Farm Products
+CCL,41.67,1.5,0.22,20495497216,Travel Services
+CTAS,3.74,1.77,5.06,62669578240,Specialty Business Services
+APOG,17.14,5.87,-2.14,1217330688,Building Products & Equipment
+MU,4.04,1.47,6.87,94450540544,Semiconductors
+MLKN,13.46,1.01,-3.8,2001046912,"Furnishings, Fixtures & Appliances"
+TTC,26.79,0.73,-0.51,10118253568,Tools & Accessories
+GIS,8.7,3.71,1.17,36379066368,Packaged Foods
+WOR,-3.7,5.02,2.2,3129649408,Metal Fabrication
+FDX,-3.62,0.73,-11.76,60629037056,Integrated Freight & Logistics
+SCS,76.47,0.8,10.85,1468897024,Business Equipment & Supplies
+FCEL,12.5,13.97,14.58,618971456,Electrical Equipment & Parts
+ACN,4.14,0.05,6.53,233034121216,Information Technology Services
+QIPT,-250.0,1.69,14.77,196618672,Medical Devices
+CONN,-37.16,4.75,30.87,121768496,Specialty Retail
+HEI,20.0,6.11,-1.72,22547828736,Aerospace & Defense
+DRI,7.6,0.41,4.38,20082483200,Restaurants
+LEN,11.42,6.09,-0.73,42674065408,Residential Construction
+COST,0.87,0.22,3.09,321374814208,Discount Stores
+RICK,-75.0,0.68,-3.28,568881856,Restaurants
+SCHL,-7.55,10.02,-7.39,1147323136,Publishing
+JBL,2.36,0.43,-1.19,17827104768,Electronic Components
+MWA,72.73,5.35,3.33,2377890304,Specialty Industrial Machinery
+ADBE,3.39,0.82,-4.09,283498938368,Software - Infrastructure
+REVG,55.88,5.33,4.77,1035266496,Farm & Heavy Construction Machinery
+VBNK,9.38,3.49,26.29,292945728,Banks - Regional
+ABM,8.6,2.77,-3.46,2538332672,Specialty Business Services
+LPTV,-7.69,0.65,-31.83,45947004,Broadcasting
+MAMA,25.0,9.55,4.27,164773408,Packaged Foods
+JCI,-3.67,2.62,-1.14,37823086592,Building Products & Equipment
+CASY,13.37,2.01,-1.57,10629415936,Specialty Retail
+ORCL,1.52,0.84,-9.19,320743669760,Software - Infrastructure
+VIRC,58.97,3.63,23.28,189682208,"Furnishings, Fixtures & Appliances"
+MOMO,0.0,0.38,-5.21,1162438912,Internet Content & Information
+CDMO,-33.33,24.31,1.91,424967424,Biotechnology
+HCP,175.0,1.97,-13.04,4843716608,Software - Infrastructure
+AVGO,1.0,0.18,20.34,600830836736,Semiconductors
+GNSS,12.5,5.49,4.79,68900496,Scientific & Technical Instruments
+SMAR,100.0,2.0,2.64,6529434624,Software - Application
+CURV,40.0,12.18,15.98,527799072,Apparel Retail
+CIEN,10.29,2.54,-1.71,8227810304,Communication Equipment
+SCWX,100.0,1.57,-4.55,609523712,Software - Infrastructure
+DG,5.88,0.5,-6.36,29774866432,Discount Stores
+LAKE,25.93,2.52,1.7,133266320,Apparel Manufacturing
+AI,31.58,1.7,-9.35,3312911360,Software - Application
+GEF,20.0,0.23,-10.09,2932664064,Packaging & Containers
+AIRI,-150.0,0.35,3.45,14819703,Aerospace & Defense
+OXM,4.12,0.29,8.6,1534853632,Apparel Manufacturing
+SMTC,113.33,0.02,20.83,1349980800,Semiconductors
+BRZE,61.54,5.89,-6.09,5950606848,Software - Application
+CHWY,66.67,0.56,6.0,7152705024,Internet Retail
+VEEV,4.69,0.1,-2.15,34901827584,Health Information Services
+CXM,57.14,3.46,-33.04,3519487488,Software - Application
+SPWH,90.91,7.65,-17.32,139921632,Specialty Retail
+BASE,55.56,6.45,5.11,1342159104,Software - Infrastructure
+VRA,111.11,6.59,1.11,244149840,Footwear & Accessories
+OLLI,13.33,1.94,-7.24,4712427008,Discount Stores
+CPB,4.6,0.4,6.37,12848100352,Packaged Foods
+KFY,1.04,2.81,4.13,3099925760,Staffing & Employment Services
+THO,13.79,0.38,3.42,6314545152,Recreational Vehicles
+DSGX,-3.12,0.49,3.41,7611216896,Software - Application
+PLAY,104.55,1.01,12.32,2390045952,Entertainment
+AVAV,44.78,0.67,-12.02,3522233344,Aerospace & Defense
+SFIX,4.35,0.81,-2.18,406725440,Apparel Retail
+OOMA,0.0,0.7,-16.49,273480000,Telecom Services
+BOX,-5.26,0.19,-7.97,3928649984,Software - Infrastructure
+S,62.5,5.13,20.15,8673528832,Software - Infrastructure
+PHR,19.44,2.56,24.65,1552770048,Health Information Services
+RENT,-7.14,0.9,26.98,36736056,Apparel Retail
+HQY,22.45,2.29,2.46,6830625792,Health Information Services
+CNM,-4.41,0.05,7.97,8467227648,Industrial Distribution
+ZFOX,85.71,16.22,-18.37,138349296,Software - Infrastructure
+CULP,5.0,1.58,7.29,63222396,Textile Manufacturing
+SAIC,36.75,6.72,-1.03,6848301056,Information Technology Services
+GCO,-32.14,1.58,4.18,341797760,Apparel Retail
+ZUMZ,29.41,1.39,1.2,363557216,Apparel Retail
+MRVL,2.5,1.25,-11.07,61396774912,Semiconductors
+PD,53.85,1.65,-1.79,2312010240,Software - Application
+DELL,27.89,2.91,-9.96,59897188352,Computer Hardware
+ASO,-15.85,3.9,19.68,5043036672,Specialty Retail
+DLTH,-3.23,6.04,2.47,169270768,Apparel Retail
+FRO,-21.74,7.3,-1.69,4957814272,Oil & Gas Midstream
+PVH,6.62,1.15,13.64,7619287040,Apparel Manufacturing
+ZUO,50.0,1.24,7.86,1236386432,Software - Infrastructure
+FIVE,13.04,1.3,5.86,10428679168,Specialty Retail
+DCI,4.17,1.13,2.34,8093562880,Specialty Industrial Machinery
+BILI,-20.83,0.73,-11.55,4072111104,Electronic Gaming & Multimedia
+INTU,24.75,3.6,1.94,184242667520,Software - Application
+CAN,-36.67,11.06,2.41,374468832,Computer Hardware
+ESLT,-3.51,6.19,0.25,9180491776,Aerospace & Defense
+CRNC,-30.77,9.15,0.8,694715584,Software - Application
+HTHT,14.29,4.38,-0.03,10231204864,Lodging
+DE,10.28,1.27,-0.27,108028608512,Farm & Heavy Construction Machinery
+URBN,8.64,1.61,-8.0,3946116352,Apparel Retail
+JACK,-5.22,1.22,0.24,1511177088,Restaurants
+HIBB,81.42,3.88,-4.1,852513728,Apparel Retail
+LOW,0.33,2.4,1.16,127824617472,Home Improvement Retail
+DY,59.32,6.25,0.17,3410870784,Engineering & Construction
+GOGL,100.0,11.78,8.42,2223855872,Marine Shipping
+EMBC,40.48,1.75,8.49,935865344,Medical Instruments & Supplies
+CENTA,25.0,2.51,-9.7,2411062016,Packaged Foods
+YMM,37.5,2.84,6.74,6540265984,Software - Application
+TWST,13.83,5.52,15.58,2208069376,Diagnostics & Research
+CINT,-14.29,1.26,-8.62,568921984,Software - Infrastructure
+SPB,19.3,2.52,-13.13,2606383360,Household & Personal Products
+CPRT,6.25,4.36,3.12,48933416960,Specialty Business Services
+DLB,25.0,1.46,-1.07,7713214464,Specialty Business Services
+GPS,195.0,4.22,35.74,7438909440,Apparel Retail
+HAYN,-3.77,1.94,-2.77,763272896,Metal Fabrication
+AMAT,7.07,3.07,-3.6,154630406144,Semiconductor Equipment & Materials
+WMG,36.0,1.02,10.79,18265806848,Entertainment
+DOLE,118.18,2.49,-9.38,1044218944,Farm Products
+ALLT,20.0,9.88,-8.11,79572480,Software - Infrastructure
+CPA,17.38,1.32,2.27,4208309760,Airlines
+CSCO,7.77,0.4,-10.27,203600674816,Communication Equipment
+PFLT,6.67,3.97,0.28,701325504,Asset Management
+ICCM,0.0,65.58,0.41,64936172,Medical Devices
+UCL,350.0,0.16,-25.85,52880256,Telecom Services
+USAS,-33.33,9.17,-8.33,47757160,Other Industrial Metals & Mining
+FSI,-166.67,26.9,-8.79,24124870,Specialty Chemicals
+IPW,33.33,9.09,-9.83,17531232,Internet Retail
+TIVC,78.86,63.85,-20.0,1817951,Medical Devices
+TOMZ,-150.0,48.42,17.17,16536920,Pollution & Treatment Controls
+DNMR,-14.71,23.44,-17.31,91831496,Specialty Chemicals
+ALYA,100.0,66.14,-4.0,107491472,Information Technology Services
+MOND,-66.67,16.74,-0.66,195785200,Travel Services
+HUT,0.0,54.43,3.12,742841088,Capital Markets
+CAMT,6.25,2.84,-4.91,3658584832,Semiconductor Equipment & Materials
+ONON,37.5,5.0,12.8,9088978944,Footwear & Accessories
+BZ,69.23,4.31,10.11,6399199744,Staffing & Employment Services
+RMTI,41.67,0.43,-10.14,37036608,Drug Manufacturers - Specialty & Generic
+HD,1.33,0.5,2.43,361996615680,Home Improvement Retail
+ICMB,-8.33,1.34,3.71,51101984,Asset Management
+YMAB,-12.5,0.53,9.92,571879168,Biotechnology
+SASI,12.78,75.09,-31.14,2645634,Information Technology Services
+KRON,-5.88,63.32,42.31,61815488,Biotechnology
+VRDN,10.66,74.38,15.24,1106179200,Biotechnology
+KALA,-58.6,100.0,-0.91,19848294,Biotechnology
+AKTS,-50.0,1.2,12.38,67325312,Communication Equipment
+BWEN,81.82,2.51,-21.33,54614112,Specialty Industrial Machinery
+AMPS,-25.0,8.41,6.53,1020715840,Utilities - Renewable
+MNDY,255.56,3.71,8.64,11389627392,Software - Application
+SOHU,49.15,10.86,-8.62,324209088,Electronic Gaming & Multimedia
+EARN,-16.0,157.68,8.11,93236912,REIT - Mortgage
+HSIC,0.0,0.93,6.0,9733694464,Medical Distribution
+CXDO,500.0,9.16,47.88,168183520,Telecom Services
+PAR,36.36,6.66,12.81,1347553920,Software - Application
+OPFI,300.0,4.58,11.6,356400000,Credit Services
+MTD,1.77,0.18,1.06,26562013184,Diagnostics & Research
+MPTI,96.55,5.71,24.2,99638120,Electronic Components
+RPAY,-4.55,6.59,13.41,778905408,Software - Infrastructure
+WWW,0.0,2.46,3.73,699090624,Footwear & Accessories
+COMM,-7.14,0.24,3.7,462286464,Communication Equipment
+DSKE,-80.0,1.28,9.41,379533024,Trucking
+DCBO,7.14,1.03,15.93,1400425344,Software - Application
+FVRR,12.24,1.57,12.3,1123356288,Internet Content & Information
+INDV,13.33,2.26,-1.11,2403886592,Drug Manufacturers - Specialty & Generic
+YETI,11.11,1.71,10.44,3982205184,Leisure
+RDNT,133.33,2.74,7.3,2559630336,Diagnostics & Research
+MUX,49.35,0.25,18.79,338849024,Other Precious Metals & Mining
+SILV,11.11,36.5,7.66,806721920,Other Precious Metals & Mining
+VSTA,50.0,9.84,8.97,330280864,Education & Training Services
+HBM,-22.22,1.68,-0.92,1811222784,Copper
+SUPN,-323.08,8.74,17.03,1524801408,Drug Manufacturers - Specialty & Generic
+CERT,0.0,0.45,15.09,2754129152,Health Information Services
+PANL,166.67,9.68,14.21,396824768,Marine Shipping
+CTVA,11.54,3.26,-6.16,37587537920,Agricultural Inputs
+CPSI,12.5,2.65,-15.35,151892704,Health Information Services
+MODG,81.82,1.68,-14.96,2544489216,Leisure
+ZIP,130.0,4.47,3.34,1417267968,Staffing & Employment Services
+BCDA,0.0,614.0,160.98,9683954,Biotechnology
+TWLO,65.71,4.94,11.41,12962678784,Internet Content & Information
+GRWG,-9.09,1.29,1.38,141629104,Specialty Retail
+VNDA,100.0,12.78,-20.05,239355984,Biotechnology
+EWCZ,0.0,5.71,-1.34,892287616,Household & Personal Products
+FOUR,17.14,2.88,33.36,6264190976,Software - Infrastructure
+HLMN,-8.33,0.43,15.87,1761923200,Tools & Accessories
+RDCM,114.29,3.9,5.26,158729232,Telecom Services
+STER,-13.33,6.23,13.68,1267191808,Software - Infrastructure
+HGTY,66.67,2.28,4.62,2765532160,Insurance - Property & Casualty
+CRGE,0.0,10.59,-2.9,22149120,Telecom Services
+CEVA,-33.33,11.93,17.04,509862176,Semiconductors
+DIBS,55.56,1.44,15.02,179115776,Internet Retail
+VRNOF,0.0,0.01,12.63,2178743808,Drug Manufacturers - Specialty & Generic
+BIGC,133.33,0.06,-1.59,658176768,Software - Application
+SPNS,0.0,0.29,-7.04,1579459072,Software - Application
+ICL,22.22,5.43,3.24,5830708224,Agricultural Inputs
+VLN,20.0,0.47,-6.22,239630160,Semiconductors
+FLNG,15.52,1.36,0.77,1429944192,Oil & Gas Midstream
+BTMD,-237.5,4.9,-14.94,290310016,Medical Care Facilities
+LUMO,5.45,96.22,-7.74,23981176,Biotechnology
+SMWB,100.0,1.16,-4.52,548685312,Software - Application
+SEER,13.16,5.37,-9.66,113608856,Biotechnology
+EHAB,-25.0,1.53,7.1,447657344,Medical Care Facilities
+AMRK,-42.02,25.33,-9.25,604958592,Capital Markets
+IPAR,30.71,0.01,-2.21,4867158016,Household & Personal Products
+STKS,-260.0,7.55,-2.62,125718664,Restaurants
+OSUR,285.71,19.36,16.79,529819616,Medical Instruments & Supplies
+SNPO,-6.25,3.14,1.01,646299200,Electronics & Computer Distribution
+INVE,50.0,6.06,-7.0,177799120,Computer Hardware
+PAAS,-85.71,3.99,-12.81,4776985600,Gold
+PR,-7.69,5.13,-3.12,10434089984,Oil & Gas E&P
+INNV,-100.0,3.21,1.99,770547392,Medical Care Facilities
+IRBT,-77.36,28.05,-11.14,380365440,"Furnishings, Fixtures & Appliances"
+HOOD,10.0,2.74,-13.53,9988232192,Capital Markets
+TOST,18.18,0.67,-20.5,10312563712,Software - Infrastructure
+DNLI,13.25,88.33,-22.12,2494455552,Biotechnology
+MOS,-15.0,12.32,6.71,9834464256,Agricultural Inputs
+POWI,-4.17,4.01,-4.57,4636168704,Semiconductors
+VTRS,5.41,1.01,-2.93,14012145664,Drug Manufacturers - Specialty & Generic
+ESTA,-55.56,5.71,-34.49,1042805952,Medical Devices
+CRSR,-13.33,3.77,-5.56,1363441920,Computer Hardware
+RRR,57.89,0.5,-0.72,3437347584,Resorts & Casinos
+BROS,100.0,2.85,1.5,4781494272,Restaurants
+GILD,19.9,4.08,-7.57,91957837824,Drug Manufacturers - General
+ML,49.37,3.62,34.93,508337120,Software - Application
+TPG,60.0,10.8,6.37,16130947072,Asset Management
+EXPD,-7.2,5.75,2.7,18516742144,Integrated Freight & Logistics
+PLL,-41.72,16.59,-7.72,280825952,Other Industrial Metals & Mining
+QURE,-26.17,57.68,-0.5,283522176,Biotechnology
+SMRT,20.0,3.71,14.9,613528128,Software - Application
+RYTM,0.0,2.07,8.08,3024558848,Biotechnology
+FUSN,37.5,389.27,-7.57,837735104,Biotechnology
+TRDA,285.45,168.23,1.74,504859360,Biotechnology
+CECO,4.76,14.12,12.19,705301248,Pollution & Treatment Controls
+ADCT,4.92,0.53,-37.81,351601280,Biotechnology
+ZBH,3.77,0.64,-0.3,25712969728,Medical Devices
+SAGE,-6.44,69.89,-3.99,1428734464,Biotechnology
+TGI,0.0,5.57,17.25,1153759744,Aerospace & Defense
+YAMHF,10.71,3.24,0.0,9624771584,Auto Manufacturers
+CLVT,16.67,2.51,-9.23,6254154752,Information Technology Services
+APD,1.29,3.51,-2.47,48886259712,Specialty Chemicals
+CELH,81.63,10.45,-10.96,13596986368,Beverages - Non-Alcoholic
+IDYA,2.13,22.98,0.86,3310188032,Biotechnology
+ESPR,11.9,10.16,-10.38,461621344,Drug Manufacturers - Specialty & Generic
+ACMR,62.86,0.55,31.53,1028514624,Semiconductor Equipment & Materials
+ENOV,5.66,0.9,1.43,3304582912,Specialty Industrial Machinery
+ARKO,0.0,7.56,-3.81,948489088,Specialty Retail
+ISPO,-135.34,6.71,-19.67,15019084,Travel Services
+RDW,0.0,3.75,-16.72,196991392,Aerospace & Defense
+STEP,-7.14,0.07,-9.68,3873914880,Asset Management
+EVER,44.44,5.29,3.54,489149408,Internet Content & Information
+RVMD,1.98,100.0,-8.41,4985980416,Biotechnology
+SWAV,13.58,0.64,-26.01,8729699328,Medical Devices
+IFF,17.11,2.01,-0.54,20552495104,Specialty Chemicals
+STRL,0.8,0.22,-12.19,2572830976,Engineering & Construction
+HIMS,-33.33,3.03,3.03,2088136704,Household & Personal Products
+BWMN,17.24,4.47,4.63,531304736,Engineering & Construction
+VRTX,4.08,0.06,-1.48,109015629824,Biotechnology
+HALO,5.63,1.57,5.32,4688158208,Biotechnology
+AGM,5.36,15.65,-2.67,1914336000,Credit Services
+FANG,12.04,7.49,-2.89,27470555136,Oil & Gas E&P
+THS,18.75,9.56,-3.17,2383431680,Packaged Foods
+DISH,-204.0,3.69,-26.81,3083430400,Telecom Services
+AMG,7.94,2.03,-3.79,5270422528,Asset Management
+FENC,36.36,24.9,-3.44,271368512,Biotechnology
+GTES,9.38,1.2,-7.07,3350956544,Specialty Industrial Machinery
+LAZY,-514.29,12.1,3.74,74909520,Auto & Truck Dealerships
+FUBO,12.0,11.24,-12.0,603180352,Broadcasting
+PRVA,-16.67,1.59,-4.66,2466356992,Health Information Services
+QSR,7.14,1.32,3.24,34392203264,Restaurants
+MGA,6.57,3.18,-3.51,16779383808,Auto Parts
+AMCX,41.22,2.62,-0.88,742218752,Entertainment
+TILE,12.0,4.16,-3.09,767012416,Building Products & Equipment
+SLCA,5.56,4.38,-11.26,807035392,Oil & Gas Equipment & Services
+FLGT,-21.88,31.46,7.1,751199104,Diagnostics & Research
+ACRE,8.7,1.56,-2.74,471564640,REIT - Mortgage
+IT,37.63,1.2,10.09,36525375488,Information Technology Services
+EAF,-60.0,9.08,-25.79,338986688,Electrical Equipment & Parts
+CNK,29.79,2.13,-11.79,1829059456,Entertainment
+INTT,7.69,0.01,2.41,143624960,Semiconductor Equipment & Materials
+RPID,3.12,11.22,-4.37,40712736,Medical Devices
+FLR,85.45,3.17,-2.46,6886557696,Engineering & Construction
+PRLB,70.0,7.14,15.65,958977088,Metal Fabrication
+CRBG,-0.94,23.59,-7.8,14801803264,Asset Management
+BLMN,7.32,0.24,-1.89,2374364672,Restaurants
+EDIT,14.06,5.5,8.55,608468992,Biotechnology
+OMI,22.22,1.22,6.65,1617231104,Medical Distribution
+TIXT,-4.55,0.78,-8.08,2513052416,Software - Infrastructure
+CHD,8.82,1.61,5.1,24623394816,Household & Personal Products
+UI,-43.24,15.48,-8.38,7684768768,Communication Equipment
+CAH,23.57,0.43,6.79,25527302144,Medical Distribution
+HLIO,-39.73,8.5,-19.06,1400455552,Specialty Industrial Machinery
+TSLX,7.14,3.91,2.77,1876811648,Asset Management
+EVH,233.33,0.55,13.46,3529272064,Health Information Services
+LOCO,5.56,0.62,-4.69,290313952,Restaurants
+RYAN,0.0,0.2,3.25,11302667264,Insurance - Specialty
+HASI,16.98,17.37,10.6,2652444672,REIT - Specialty
+ACCO,4.35,5.95,-4.87,603726848,Business Equipment & Supplies
+PCTY,28.44,0.32,-9.85,9655044096,Software - Application
+ED,2.53,1.46,-0.37,30745292800,Utilities - Regulated Electric
+UDMY,350.0,3.76,41.28,2218670592,Education & Training Services
+PRTA,246.15,63.68,-4.0,1523021184,Biotechnology
+HTGC,4.0,3.12,-0.56,2613193472,Asset Management
+PBYI,13.33,3.16,16.61,274962112,Biotechnology
+EOG,16.61,5.13,-2.09,65930944512,Oil & Gas E&P
+CERS,40.0,2.76,20.14,427624896,Medical Devices
+EXPE,5.05,1.53,22.62,22142119936,Travel Services
+NGM,12.5,67.67,10.65,125727568,Biotechnology
+CYTK,-87.5,98.47,-3.28,7734317056,Biotechnology
+MSI,5.63,1.6,10.33,54917152768,Communication Equipment
+GDYN,0.0,1.38,9.64,1062039488,Information Technology Services
+BKNG,6.57,1.54,7.6,133917483008,Travel Services
+CMBM,-238.46,0.22,-14.5,123386344,Communication Equipment
+CNQ,19.14,13.59,-4.13,66131415040,Oil & Gas E&P
+SGA,-4.26,1.04,5.27,145678784,Broadcasting
+IDA,21.76,7.47,-2.14,4533096960,Utilities - Regulated Electric
+JLL,-14.47,0.32,1.8,8535537664,Real Estate Services
+BCE,0.0,0.64,0.62,34606714880,Telecom Services
+PCRX,-14.29,5.15,5.72,1336477056,Drug Manufacturers - Specialty & Generic
+THR,48.48,16.01,11.68,922097088,Specialty Industrial Machinery
+KRP,-44.12,7.39,-3.65,1571532928,Oil & Gas E&P
+DSGR,-32.0,2.69,-20.1,1647573760,Industrial Distribution
+ICE,4.29,0.4,2.13,77583745024,Financial Data & Stock Exchanges
+ROCK,23.21,1.94,3.08,2614182400,Building Products & Equipment
+MGPI,3.08,0.72,-1.73,1881055616,Beverages - Wineries & Distilleries
+FOXA,13.54,1.01,4.84,13158072320,Entertainment
+BR,15.96,4.14,3.77,23436660736,Information Technology Services
+PTON,-22.22,0.57,1.94,1665595776,Leisure
+WEN,3.85,0.8,-2.65,3984923904,Restaurants
+CIGI,-28.31,3.08,13.85,5874880512,Real Estate Services
+SRCL,0.0,3.94,3.88,4508665344,Waste Management
+NVRI,225.0,3.72,-4.63,658627200,Waste Management
+H,16.67,0.08,3.37,13511203840,Lodging
+IMGN,400.0,6.02,0.25,8724225024,Biotechnology
+WLK,14.58,6.45,-1.69,18298517504,Specialty Chemicals
+TPX,-3.75,2.27,-0.19,8937578496,"Furnishings, Fixtures & Appliances"
+LPG,6.94,7.17,1.02,1463101440,Oil & Gas Midstream
+PRMW,22.22,0.69,7.1,2347559168,Beverages - Non-Alcoholic
+DLX,16.18,0.15,7.77,892200960,Advertising Agencies
+AUPH,47.06,41.94,6.61,1190510336,Biotechnology
+ENTG,11.48,0.24,7.6,19059683328,Semiconductor Equipment & Materials
+CI,1.65,2.32,-3.58,97968365568,Healthcare Plans
+GOLD,14.29,4.56,-6.36,26009616384,Gold
+BALL,1.22,7.96,3.86,18656358400,Packaging & Containers
+EPAM,6.64,0.67,4.64,16569850880,Information Technology Services
+AUDC,38.89,0.14,7.03,436101408,Communication Equipment
+CURO,8.99,13.89,-13.33,14042175,Credit Services
+SBUX,9.28,1.62,3.28,110165016576,Restaurants
+MUR,18.66,6.71,-4.32,5834680832,Oil & Gas E&P
+MD,-25.58,0.43,-4.85,762096768,Medical Care Facilities
+MKL,-21.14,0.39,-9.52,18764838912,Insurance - Property & Casualty
+SCI,11.43,2.38,7.29,9934372864,Personal Services
+SEMR,200.0,0.07,2.47,1738826496,Software - Application
+CVGI,0.0,2.24,-17.92,216399584,Auto Parts
+HLF,-13.33,4.09,-5.98,1225032576,Packaged Foods
+QTWO,23.53,0.07,14.76,2533031936,Software - Application
+NYMT,50.0,2.78,2.57,683751296,REIT - Mortgage
+HDSN,-5.56,12.58,-6.49,658874752,Specialty Chemicals
+FROG,87.5,1.28,17.04,4113668352,Software - Application
+RNR,27.37,1.67,-6.21,11935687680,Insurance - Reinsurance
+LMND,5.38,9.93,53.23,1157934720,Insurance - Property & Casualty
+DXC,2.94,0.11,7.92,4043278080,Information Technology Services
+MLNK,100.0,0.59,12.87,1463084288,Software - Application
+ZETA,0.0,5.72,9.18,2093494400,Software - Application
+CHRW,2.44,0.66,0.69,8710330368,Integrated Freight & Logistics
+MDLZ,5.13,4.05,3.07,100669480960,Confectioners
+WSC,2.22,0.65,-9.34,9775753216,Rental & Leasing Services
+FC,0.0,4.47,-7.41,534503808,Consulting Services
+EA,14.96,2.86,4.76,37592084480,Electronic Gaming & Multimedia
+WERN,-12.5,1.91,2.49,2639933952,Trucking
+ACLS,15.03,3.92,1.87,4096084224,Semiconductor Equipment & Materials
+ETSY,30.61,1.04,5.24,9350964224,Internet Retail
+CFLT,300.0,2.75,-37.64,9765794816,Software - Infrastructure
+ROKU,-7.87,6.37,41.07,13494388736,Entertainment
+UFCS,293.75,0.42,0.75,553059584,Insurance - Property & Casualty
+QCOM,5.21,0.94,10.58,168515993600,Semiconductors
+QRVO,35.03,10.09,0.77,10874260480,Semiconductors
+TRIN,0.0,4.6,3.28,644825920,Asset Management
+NMRK,-10.0,0.12,18.66,2536845312,Real Estate Services
+TTMI,53.57,0.13,8.42,1648189440,Electronic Components
+BLDR,4.69,6.87,15.72,22859898880,Building Products & Equipment
+IQV,1.22,1.21,17.73,39821500416,Diagnostics & Research
+APLS,-39.29,9.81,2.65,8124359680,Biotechnology
+BBGI,228.57,1.93,2.74,24770022,Broadcasting
+W,69.77,1.42,13.25,6084913152,Internet Retail
+CHEF,0.0,3.88,24.53,1352186624,Food Distribution
+ASTE,-101.56,8.01,-1.88,803599360,Farm & Heavy Construction Machinery
+NI,35.71,2.82,-0.83,10438728704,Utilities - Regulated Gas
+ESAB,17.39,7.94,12.47,5438863872,Metal Fabrication
+TRI,20.59,0.5,4.41,71764213760,Specialty Business Services
+HUM,8.81,0.63,-0.43,45257101312,Healthcare Plans
+JHG,18.52,2.03,1.72,5064164864,Asset Management
+RDWR,-12.5,0.95,-3.88,815370304,Software - Infrastructure
+LPX,16.55,1.1,12.67,5017019904,Building Products & Equipment
+AXTA,18.42,1.53,2.33,6895200768,Specialty Chemicals
+GSK,15.6,6.14,2.13,85039579136,Drug Manufacturers - General
+GNRC,9.33,3.14,8.13,7810409472,Specialty Industrial Machinery
+KMT,17.14,1.29,-6.66,1948451712,Tools & Accessories
+DD,9.52,2.85,-2.07,29109846016,Specialty Chemicals
+SITE,-15.54,0.18,2.2,7260233216,Industrial Distribution
+RGS,137.5,2.23,-25.76,27034276,Personal Services
+UTHR,10.02,5.71,8.85,9978620928,Biotechnology
+FRSH,60.0,2.12,3.68,6410723840,Software - Application
+SON,15.87,1.4,7.3,5578616832,Packaging & Containers
+QUAD,22.22,4.4,-12.88,279630848,Specialty Business Services
+KAI,20.09,5.34,11.8,3614684416,Specialty Industrial Machinery
+PRO,200.0,2.09,10.33,1709018368,Software - Application
+GPOR,-153.72,1.31,3.9,2323511808,Oil & Gas E&P
+ATNI,-14.29,0.32,16.28,530036928,Telecom Services
+FSFG,2.5,7.59,4.78,118046192,Banks - Regional
+SFM,4.84,1.94,-1.52,5197892096,Grocery Stores
+BEN,40.0,6.23,2.94,14269722624,Asset Management
+UFPI,-1.41,10.23,8.41,7349506560,Lumber & Wood Production
+IPGP,14.85,3.68,11.37,4824571392,Semiconductor Equipment & Materials
+NSP,71.76,1.29,3.04,3592731648,Staffing & Employment Services
+NLST,-40.0,39.38,-4.03,418334400,Semiconductors
+SYY,4.9,0.38,0.97,39602380800,Food Distribution
+ECL,1.32,0.74,8.92,57852030976,Specialty Chemicals
+CVLT,7.69,2.83,0.96,4142176000,Software - Application
+KNSA,-11.11,7.23,8.26,1337835136,Biotechnology
+RGEN,64.29,2.01,6.91,11445560320,Medical Instruments & Supplies
+HUBB,-2.95,3.36,4.92,19467137024,Electrical Equipment & Parts
+ARDX,127.27,155.31,6.95,2261024000,Biotechnology
+HRMY,-5.97,11.39,11.64,1972691584,Biotechnology
+AGCO,21.41,0.53,2.59,8792403968,Farm & Heavy Construction Machinery
+PEG,13.33,1.34,2.59,29111502848,Utilities - Regulated Electric
+HNI,45.31,0.03,13.05,1981021824,Business Equipment & Supplies
+CEIX,-31.19,1.49,2.35,2660027392,Thermal Coal
+TREE,56.41,3.98,40.63,467580672,Financial Conglomerates
+SSTK,51.81,9.54,7.21,1653136256,Internet Content & Information
+MMYT,-7.41,1.41,7.25,6280893952,Travel Services
+LGIH,44.9,1.79,19.69,2846283520,Residential Construction
+SIRI,12.5,0.71,11.17,19173896192,Entertainment
+DORM,-12.5,0.89,12.95,2627996672,Auto Parts
+AMGN,6.67,0.8,6.62,157748903936,Drug Manufacturers - General
+WEC,9.89,7.84,-1.23,24461985792,Utilities - Regulated Electric
+HAYW,0.0,4.83,7.66,2799453696,Electrical Equipment & Parts
+COCO,8.33,2.04,11.45,1145144448,Beverages - Non-Alcoholic
+INCY,0.92,5.58,5.02,12922124288,Biotechnology
+MBUU,25.56,4.93,1.93,1000291968,Recreational Vehicles
+NBIX,-9.89,4.01,7.07,13206027264,Drug Manufacturers - Specialty & Generic
+GPN,1.48,0.39,6.19,35576922112,Specialty Business Services
+AME,3.8,1.55,4.8,38889631744,Specialty Industrial Machinery
+BLD,18.3,1.78,11.61,12440753152,Engineering & Construction
+MSCI,3.6,0.55,4.98,46855208960,Financial Data & Stock Exchanges
+XYL,11.24,4.53,0.9,30030880768,Specialty Industrial Machinery
+GPRE,800.0,9.61,-10.84,1587439488,Chemicals
+RNGR,-19.15,3.86,-9.12,241685728,Oil & Gas Equipment & Services
+PFE,46.88,3.93,2.94,155671543808,Drug Manufacturers - General
+PJT,81.4,27.69,7.27,3717639168,Capital Markets
+MPC,4.49,17.95,1.02,62548959232,Oil & Gas Refining & Marketing
+GPK,2.78,4.58,1.24,7663565312,Packaging & Containers
+STVN,0.0,3.22,2.42,8954208256,Medical Instruments & Supplies
+TECH,-6.82,4.44,2.0,10682759168,Biotechnology
+IGT,33.33,3.38,5.4,5356878848,Gambling
+ZBRA,14.47,4.19,-3.68,12998600704,Communication Equipment
+ETN,5.56,0.23,8.86,110989426688,Specialty Industrial Machinery
+JBLU,-44.44,1.09,11.98,1979736576,Airlines
+ETRN,75.0,1.51,3.93,4432260096,Oil & Gas Midstream
+NPO,0.64,8.4,9.42,3325740288,Specialty Industrial Machinery
+CAT,16.21,1.5,4.67,163925426176,Farm & Heavy Construction Machinery
+CGNX,6.67,3.65,4.17,6327939584,Scientific & Technical Instruments
+ST,1.11,0.23,-5.12,4987147776,Scientific & Technical Instruments
+ARES,-3.49,12.41,7.8,41642278912,Asset Management
+PRFT,0.0,0.59,13.3,2494514432,Information Technology Services
+LDOS,23.78,3.74,8.17,15611056128,Information Technology Services
+ALLE,13.45,0.09,-0.39,11580062720,Security & Protection Services
+GBNXF,-42.86,18.45,0.07,2475627008,Oil & Gas Midstream
+BFIN,0.0,2.11,2.34,129998976,Banks - Regional
+BRSP,21.74,7.87,15.45,869599680,REIT - Mortgage
+PLOW,-51.92,10.93,-3.92,576898432,Auto Parts
+NEXA,-22.86,15.68,7.55,927072064,Other Industrial Metals & Mining
+OTTR,33.54,6.44,17.18,4091800064,Utilities - Diversified
+TTI,-12.5,7.7,-18.43,512511072,Oil & Gas Equipment & Services
+FWRD,-10.0,1.51,-7.83,1313521536,Integrated Freight & Logistics
+HTLF,0.9,1.97,2.2,1433036160,Banks - Regional
+PDLB,271.43,25.25,5.3,218351056,Banks - Regional
+ARI,-2.63,6.53,13.07,1526121600,REIT - Mortgage
+RIG,-63.64,2.33,3.95,4231229952,Oil & Gas Drilling
+GABC,7.35,2.18,4.54,960911040,Banks - Regional
+SBFG,-2.44,7.87,8.48,104160000,Banks - Regional
+FBRT,2.38,2.85,9.73,1018528384,REIT - Mortgage
+OGS,7.14,14.56,0.14,3374375936,Utilities - Regulated Gas
+RWT,-43.75,26.95,2.36,867899968,REIT - Mortgage
+LEG,-7.69,5.47,2.05,3105562112,"Furnishings, Fixtures & Appliances"
+QGEN,2.04,0.94,8.23,9847282688,Diagnostics & Research
+CVI,0.53,5.03,4.15,3544722944,Oil & Gas Refining & Marketing
+DENN,13.33,2.4,6.63,550495616,Restaurants
+LOCL,7.08,17.44,100.0,20100328,Farm Products
+INST,25.0,1.69,1.62,3578331904,Software - Application
+MATX,1.19,1.22,-1.49,4177515520,Marine Shipping
+PCH,-36.36,0.23,7.99,3552377344,REIT - Specialty
+LUNG,13.33,10.67,18.94,545890432,Medical Devices
+VRNS,166.67,2.74,8.28,5671225856,Software - Infrastructure
+CWK,5.0,2.29,20.94,2345250816,Real Estate Services
+KMPR,10.2,2.86,0.26,3812465664,Insurance - Property & Casualty
+MPWR,0.33,0.16,23.23,36131946496,Semiconductors
+KFRC,20.0,2.85,7.1,1361987840,Staffing & Employment Services
+HLIT,-100.0,4.09,9.03,1539975936,Communication Equipment
+WOLF,22.06,2.37,24.98,3650745088,Semiconductors
+PRTS,0.0,3.4,-10.06,144321488,Internet Retail
+FMC,-2.22,0.01,-4.34,6492451328,Agricultural Inputs
+CSWC,7.81,2.05,2.56,1029616832,Asset Management
+CACC,-17.6,1.46,6.75,6961564160,Credit Services
+THC,20.0,1.0,2.2,9040147456,Medical Care Facilities
+AGNC,14.04,117.09,20.14,6554191872,REIT - Mortgage
+ANET,15.82,2.06,20.43,87870201856,Computer Hardware
+MFIN,17.07,7.69,27.95,235038720,Credit Services
+CHGG,5.88,3.83,-2.79,897653504,Education & Training Services
+ADUS,9.52,1.71,3.09,1528073344,Medical Care Facilities
+PETS,-100.0,7.95,-23.46,126459064,Pharmaceutical Retailers
+TREX,16.33,4.26,14.5,9896261632,Building Products & Equipment
+ZI,8.33,0.98,-11.95,11333550080,Software - Application
+AXNX,260.0,2.41,8.12,3449773824,Medical Devices
+VFC,-3.08,1.31,-9.83,5968331264,Apparel Manufacturing
+LSCC,1.92,0.08,-14.82,9626072064,Semiconductors
+TRNS,10.81,1.2,-4.9,994336640,Industrial Distribution
+RRBI,-9.68,4.45,3.84,370467296,Banks - Regional
+WDC,6.38,3.1,-0.32,18520764416,Computer Hardware
+DQ,-105.29,27.88,8.65,1304020736,Semiconductor Equipment & Materials
+SOFI,57.14,2.81,5.39,7933758464,Credit Services
+DCPH,3.33,9.21,6.49,1270985472,Drug Manufacturers - Specialty & Generic
+MCD,6.33,1.79,2.99,210814910464,Restaurants
+BGC,5.56,2.07,4.8,3775079936,Capital Markets
+CHKP,2.48,0.76,3.73,19223283712,Software - Infrastructure
+RVTY,-0.84,3.1,8.83,12804710400,Diagnostics & Research
+BIOVF,-44.44,7.69,0.5,9169929216,Drug Manufacturers - Specialty & Generic
+TBNK,-23.08,3.6,1.2,82175744,Banks - Regional
+NECB,17.65,6.78,9.82,225045360,Banks - Regional
+MRBK,-10.26,4.78,9.77,110488080,Banks - Regional
+CCB,-13.79,13.1,-4.41,519133792,Banks - Regional
+TMP,-6.33,86.99,7.05,712480000,Banks - Regional
+CWBC,4.17,0.0,3.34,123806248,Banks - Regional
+ACNB,1.92,1.43,6.59,315434336,Banks - Regional
+CIVB,10.0,0.68,-5.27,255839408,Banks - Regional
+SMP,12.12,1.11,16.12,886990016,Auto Parts
+GNTX,7.14,2.99,1.55,8238495744,Auto Parts
+IMO,13.81,22.62,-5.81,31544633344,Oil & Gas Integrated
+LECO,5.73,1.13,2.56,13248593920,Tools & Accessories
+ABBV,3.15,1.65,3.24,308598571008,Drug Manufacturers - General
+SAIA,2.23,3.15,0.16,15006599168,Trucking
+WT,0.0,0.67,-3.39,1062833152,Asset Management
+STEL,3.57,3.23,6.27,1303497856,Banks - Regional
+OIS,125.0,2.48,-3.62,382057216,Oil & Gas Equipment & Services
+BCPC,-1.1,3.57,3.39,4679473152,Specialty Chemicals
+AN,2.21,2.95,0.09,6470344192,Auto & Truck Dealerships
+AER,15.16,3.29,6.52,15636742144,Rental & Leasing Services
+CHTR,6.73,0.44,10.62,42282254336,Telecom Services
+DAN,200.0,1.58,-10.22,1965883520,Auto Parts
+NWL,69.57,3.7,3.03,3499986944,Household & Personal Products
+CBRE,10.77,3.1,8.72,26379835392,Real Estate Services
+BAH,-1.53,2.63,4.48,19032440832,Consulting Services
+CL,7.5,2.06,2.03,69377376256,Household & Personal Products
+GTLS,-20.5,12.8,-11.65,5225833472,Specialty Industrial Machinery
+NVT,15.07,2.42,4.97,10666438656,Electrical Equipment & Parts
+CVEO,190.48,10.1,0.33,332373600,Specialty Business Services
+B,-62.75,1.07,-21.11,1778182272,Specialty Industrial Machinery
+PNM,18.46,44.32,-2.78,3182756352,Utilities - Regulated Electric
+LYB,24.24,3.22,1.5,30944133120,Specialty Chemicals
+XOM,-3.81,1.65,0.2,412864577536,Oil & Gas Integrated
+AVTR,0.0,1.22,-11.48,15759799296,Specialty Chemicals
+CRI,23.49,0.61,8.57,2990542080,Apparel Retail
+CVX,-17.12,0.15,-1.3,285165027328,Oil & Gas Integrated
+ARCB,49.03,1.01,19.81,3388738816,Trucking
+XEL,-3.15,8.82,3.51,32099135488,Utilities - Regulated Electric
+SWK,25.0,1.63,5.37,13686087680,Tools & Accessories
+FTS,10.53,2.02,3.53,19162406912,Utilities - Regulated Electric
+AON,4.04,2.62,4.17,62074417152,Insurance Brokers
+POR,2.22,4.11,0.43,4056083712,Utilities - Regulated Electric
+SOI,-5.0,9.81,-6.89,332341888,Oil & Gas Equipment & Services
+HTBK,0.0,0.47,2.5,508129920,Banks - Regional
+CSTR,19.44,8.34,0.2,369502080,Banks - Regional
+LODE,450.0,34.4,10.26,54516560,Real Estate Services
+AVGR,-2.46,24.29,-8.62,3576252,Medical Instruments & Supplies
+HUBG,-18.49,0.68,-8.26,2817084928,Integrated Freight & Logistics
+DRQ,-287.5,11.45,-7.09,696651520,Oil & Gas Equipment & Services
+NOV,-17.14,2.56,2.45,6803116032,Oil & Gas Equipment & Services
+CALB,1.59,1.91,0.35,196365488,Banks - Regional
+PFS,15.15,0.17,1.43,1182157184,Banks - Regional
+USCB,-5.0,3.3,5.0,222572288,Banks - Regional
+MSBI,1.3,1.43,6.62,533828192,Banks - Regional
+FLIC,30.43,2.94,4.1,255728976,Banks - Regional
+FRST,77.78,5.39,21.08,310146592,Banks - Regional
+MVBF,-46.3,1.29,0.45,274092384,Banks - Regional
+CUBI,61.87,19.34,25.01,1620464000,Banks - Regional
+MTX,13.74,1.0,7.9,2311593216,Specialty Chemicals
+SAM,9.65,1.47,-11.19,4288951040,Beverages - Brewers
+NRIM,18.4,1.63,5.57,265914176,Banks - Regional
+MOFG,0.0,4.23,0.56,376349312,Banks - Regional
+WY,0.0,4.42,0.35,24286179328,REIT - Specialty
+LHX,4.25,2.0,1.75,39773073408,Aerospace & Defense
+ERIE,21.84,3.48,-6.17,18294878208,Insurance Brokers
+TARO,111.11,8.03,3.71,1591331968,Drug Manufacturers - Specialty & Generic
+FHI,4.88,0.45,2.81,3051376384,Asset Management
+X,21.74,1.02,5.48,10372153344,Steel
+PFG,4.24,2.91,0.57,18643818496,Asset Management
+HLI,11.0,4.47,5.01,8666704896,Capital Markets
+EHC,11.69,0.99,1.05,7362721280,Medical Care Facilities
+BY,26.23,1.45,2.46,910293248,Banks - Regional
+LPLA,4.18,0.22,1.62,18524493824,Capital Markets
+CVRX,24.56,6.93,3.26,508826112,Medical Devices
+SBCF,2.78,1.46,3.4,2097763840,Banks - Regional
+FE,3.53,4.03,0.7,21409038336,Utilities - Regulated Electric
+FSRL,10.53,3.98,0.0,39778980,Banks - Regional
+FINW,48.0,14.25,0.95,135930368,Banks - Regional
+CC,-16.88,3.63,1.14,4466499584,Specialty Chemicals
+WKC,0.0,2.1,-5.16,1416548352,Oil & Gas Refining & Marketing
+ULH,-12.0,1.12,-1.55,825323840,Trucking
+EBC,10.34,10.42,-4.93,2455864064,Banks - Regional
+JNPR,9.09,0.42,6.94,11920216064,Communication Equipment
+EMN,1.38,0.28,7.21,9734728704,Specialty Chemicals
+FISI,2.33,1.51,2.05,292578912,Banks - Regional
+PFSI,12.74,0.38,9.17,4576826368,Mortgage Finance
+FBIZ,-1.68,0.48,4.19,291931936,Banks - Regional
+EVBN,-8.33,3.83,-6.19,159548336,Banks - Regional
+MBIN,27.27,13.25,14.22,1750905088,Banks - Regional
+TEX,4.79,3.24,-0.76,4330753536,Farm & Heavy Construction Machinery
+OLN,22.39,4.94,-5.89,6163855872,Specialty Chemicals
+MHK,2.64,1.2,3.36,7005679104,"Furnishings, Fixtures & Appliances"
+BRFH,-100.0,3.23,-10.27,18102240,Beverages - Non-Alcoholic
+APPF,47.5,5.74,3.68,8490941440,Software - Application
+AJG,3.09,1.75,2.61,51753283584,Insurance Brokers
+UVE,42.86,11.65,12.82,472809984,Insurance - Property & Casualty
+PMT,82.14,94.33,22.5,1194544896,REIT - Mortgage
+ENPH,0.0,1.99,-18.9,16723401728,Solar
+MMSI,15.38,2.93,10.75,4618885120,Medical Instruments & Supplies
+VRSN,5.17,0.67,-5.55,20532330496,Software - Infrastructure
+KNSL,12.97,1.92,-19.4,9711781888,Insurance - Property & Casualty
+SPSC,13.64,1.09,2.89,7742827008,Software - Infrastructure
+ROG,7.83,2.49,1.81,2220203776,Electronic Components
+SSNC,0.86,0.43,-0.06,15091050496,Software - Application
+RSG,9.22,1.08,1.11,54948098048,Waste Management
+CMG,8.6,0.14,7.68,72346722304,Restaurants
+FORR,29.41,0.01,-14.4,444155328,Consulting Services
+CINF,55.14,1.17,3.32,17095730176,Insurance - Property & Casualty
+BIO,-18.82,8.47,-4.24,9478634496,Medical Devices
+EXPO,-2.04,1.21,-15.07,3977882880,Engineering & Construction
+ATGE,13.41,1.77,18.75,1975863936,Education & Training Services
+INTC,95.24,4.91,13.38,183114678272,Semiconductors
+SKX,19.23,0.67,-2.64,8926278656,Footwear & Accessories
+TBBK,-1.08,2.82,14.26,2335062016,Banks - Regional
+COLM,1.19,1.41,5.7,4843649536,Apparel Manufacturing
+CSL,2.41,1.04,7.28,16849810432,Building Products & Equipment
+PTCT,-107.06,13.18,-21.36,1925063808,Biotechnology
+RMD,0.61,0.51,5.25,27157041152,Medical Instruments & Supplies
+TXRH,-9.52,0.25,6.42,9049786368,Restaurants
+AX,4.44,1.72,2.33,2918329344,Banks - Regional
+COF,36.09,2.01,12.15,51498553344,Credit Services
+EKSO,22.58,1.75,56.44,37412548,Medical Instruments & Supplies
+F,-2.5,6.74,-15.5,50981715968,Auto Manufacturers
+ABCB,2.65,1.35,7.77,3316629760,Banks - Regional
+DECK,54.65,14.02,20.8,21695275008,Footwear & Accessories
+COUR,71.43,4.56,3.18,2726032896,Education & Training Services
+DXCM,47.06,4.02,11.82,48979730432,Medical Devices
+EVTC,21.21,10.03,-7.22,2714722304,Software - Infrastructure
+MGRC,32.0,13.48,1.84,3183281152,Rental & Leasing Services
+RVSB,0.0,1.79,-7.44,103550640,Banks - Regional
+NRDS,85.71,5.87,67.13,1181463168,Internet Content & Information
+STRT,520.0,7.37,-0.96,109964016,Auto Parts
+SABK,3.57,1.23,1.36,92791368,Banks - Regional
+SKYW,37.5,0.46,11.2,2443106048,Airlines
+SSB,-0.61,0.35,2.85,6264212992,Banks - Regional
+BFST,14.52,3.2,6.46,552922752,Banks - Regional
+AMZN,46.55,1.1,13.57,1812081803264,Internet Retail
+ZYXI,0.0,0.84,25.04,421038016,Medical Distribution
+CFR,11.21,3.45,5.87,6641830912,Banks - Regional
+FFNW,6.67,2.08,5.77,189556880,Banks - Regional
+OSIS,7.06,0.46,-8.19,2337034240,Electronic Components
+HTLD,-300.0,2.04,-16.39,1044895616,Trucking
+LADR,3.33,15.86,7.79,1354151040,REIT - Mortgage
+STX,-10.0,2.1,2.5,18732380160,Computer Hardware
+FRME,-2.08,1.45,3.37,2009723008,Banks - Regional
+CARE,0.0,1.59,3.76,322536032,Banks - Regional
+PATK,5.23,1.18,9.55,2438314496,"Furnishings, Fixtures & Appliances"
+BSVN,-17.48,2.61,1.79,253396624,Banks - Regional
+TOWN,17.65,0.56,7.33,2073052160,Banks - Regional
+BPOP,0.53,0.09,5.83,6100587008,Banks - Regional
+GWW,6.55,0.52,5.12,47599693824,Industrial Distribution
+CRS,17.33,7.13,5.43,3130769664,Metal Fabrication
+TRS,1.79,4.77,3.46,1035360000,Packaging & Containers
+BTU,-31.03,3.94,2.23,3405974528,Thermal Coal
+MA,5.61,0.08,1.83,428169560064,Credit Services
+ITGR,20.95,8.71,12.29,3523288320,Medical Devices
+FSV,-3.1,5.47,5.7,7420383744,Real Estate Services
+VMC,2.23,0.39,2.31,31889520640,Building Materials
+SHYF,137.5,10.8,-5.87,381645472,Farm & Heavy Construction Machinery
+INSM,-3.77,0.27,-1.96,4085826048,Biotechnology
+EME,33.21,1.92,-0.02,11532934144,Engineering & Construction
+FCN,27.17,5.39,11.89,6927942656,Consulting Services
+HTZ,0.0,0.41,-13.68,2575702016,Rental & Leasing Services
+OSK,38.81,1.96,-1.56,7400225280,Farm & Heavy Construction Machinery
+HEES,11.45,8.12,4.64,2005108992,Rental & Leasing Services
+CNOB,-1.92,2.4,13.71,792737472,Banks - Regional
+KEX,2.94,3.75,-2.3,5024681984,Marine Shipping
+XPRO,-120.0,6.47,-14.22,1952253952,Oil & Gas Equipment & Services
+NVCR,11.54,0.83,-9.53,1636041984,Medical Devices
+NEM,-14.29,22.08,0.24,38423977984,Gold
+NYCB,2.86,11.82,-6.69,3538123264,Banks - Regional
+FNWB,3.7,4.01,-1.02,132355592,Banks - Regional
+ASPS,-29.41,10.99,-10.56,74192664,Real Estate Services
+ALIM,85.37,4.25,6.58,205486144,Drug Manufacturers - Specialty & Generic
+ORI,14.29,3.16,4.25,7814134784,Insurance - Diversified
+FXNC,0.0,1.75,-0.37,122631496,Banks - Regional
+MAS,9.89,0.09,1.44,16113175552,Building Products & Equipment
+VLY,0.0,0.01,-1.15,4279995648,Banks - Regional
+ULCC,12.5,0.84,-17.18,1673454464,Airlines
+FFWM,66.67,1.87,-14.68,468681088,Banks - Regional
+KDP,2.13,0.78,-1.33,43558289408,Beverages - Non-Alcoholic
+VC,26.34,3.33,-16.47,3337622272,Auto Parts
+BMY,13.64,0.28,-4.97,101351391232,Drug Manufacturers - General
+BPMC,7.95,14.09,23.56,4652843520,Biotechnology
+LH,0.3,2.14,2.24,18915719168,Diagnostics & Research
+AOS,13.92,3.38,7.08,11934819328,Specialty Industrial Machinery
+CMCSA,14.89,1.59,4.42,166698582016,Telecom Services
+IP,8.47,4.89,2.22,12200558592,Packaging & Containers
+TW,0.0,0.31,11.77,23713421312,Capital Markets
+AMBP,0.0,2.64,15.75,2187217664,Packaging & Containers
+FMBH,22.22,8.96,5.19,746979584,Banks - Regional
+HOG,-0.72,4.22,-4.51,5132099072,Recreational Vehicles
+MO,-0.78,3.7,-5.32,70732382208,Tobacco
+ARCH,19.94,22.47,0.03,3141411840,Coking Coal
+RITM,70.59,18.18,4.96,4933737472,REIT - Mortgage
+RS,-0.4,0.79,8.98,17218945024,Steel
+LAZ,-47.37,10.3,-0.04,3413551616,Capital Markets
+LUV,0.0,0.69,-5.4,19385647104,Airlines
+FTI,5.0,3.58,8.64,8382611456,Oil & Gas Equipment & Services
+HZO,0.0,13.94,-7.87,733879808,Specialty Retail
+TSCO,2.64,1.45,1.78,25415438336,Specialty Retail
+LII,13.53,6.75,8.48,16265645056,Building Products & Equipment
+NOC,6.37,1.13,-3.75,68254380032,Aerospace & Defense
+HSY,5.26,2.24,-1.65,41372073984,Confectioners
+BFH,54.46,4.03,-5.95,1749262976,Credit Services
+SAH,12.22,2.0,4.04,1870540672,Auto & Truck Dealerships
+RCL,12.24,2.4,1.65,31019624448,Travel Services
+FAF,11.93,5.98,3.29,6089742848,Insurance - Specialty
+VLO,1.77,1.42,1.37,48705204224,Oil & Gas Refining & Marketing
+AIT,15.46,0.37,1.46,7267159040,Industrial Distribution
+TXT,17.32,3.07,1.47,17168109568,Aerospace & Defense
+EXP,2.39,1.58,5.23,8384498688,Building Materials
+CARR,14.1,2.03,1.53,50317369344,Building Products & Equipment
+CMS,-3.17,19.85,0.5,16568331264,Utilities - Regulated Electric
+WEX,7.43,1.55,-8.79,9066291200,Software - Infrastructure
+CBZ,13.79,3.93,2.33,3291191040,Specialty Business Services
+LEA,12.99,4.97,-3.42,7685331456,Auto Parts
+MBLY,29.41,0.15,-0.64,22338359296,Auto Parts
+BSX,4.17,1.77,1.79,95956189184,Medical Devices
+FCNCA,15.66,11.46,1.19,21281163264,Banks - Regional
+MRK,9.79,3.8,-0.24,320832077824,Drug Manufacturers - General
+HAS,0.0,8.16,0.42,7031200768,Leisure
+CNP,8.11,2.65,-1.8,17377597440,Utilities - Regulated Electric
+AMAL,7.04,0.65,14.81,734845184,Banks - Regional
+LKQ,-9.47,2.28,-5.73,12828647424,Auto Parts
+WTW,8.21,4.22,7.01,27875979264,Insurance Brokers
+PDS,-27.52,1.35,2.11,917667456,Oil & Gas Drilling
+UPS,2.61,2.22,-1.89,126016880640,Integrated Freight & Logistics
+HON,2.25,0.04,3.03,128448462848,Conglomerates
+BG,26.16,3.66,1.02,12863799296,Farm Products
+FCFS,11.43,2.51,4.89,5339422208,Credit Services
+MDC,18.64,0.99,4.8,4658864128,Residential Construction
+WST,16.13,0.07,-1.93,30402373632,Medical Instruments & Supplies
+TPH,40.74,11.15,2.98,3412354048,Residential Construction
+THRM,-5.88,4.49,-18.44,1621121152,Auto Parts
+SAVE,6.8,0.61,-30.17,783822208,Airlines
+SBSI,-22.08,1.09,3.23,916847168,Banks - Regional
+NFBK,-5.0,1.26,-0.81,489328640,Banks - Regional
+ARR,-6.09,20.22,-2.21,923563328,REIT - Mortgage
+OBT,24.81,6.29,1.73,259395136,Banks - Regional
+ESSA,11.9,5.35,15.79,181657792,Banks - Regional
+OII,40.74,0.5,-11.15,2077956608,Oil & Gas Equipment & Services
+FBMS,-5.0,4.89,-3.81,760817152,Banks - Regional
+MEOH,125.0,5.62,4.04,3099825152,Chemicals
+CLS,6.56,2.42,-10.71,4602124800,Electronic Components
+TCBX,-34.69,0.09,-1.9,266516080,Banks - Regional
+ALRS,32.35,3.83,3.04,443819904,Banks - Regional
+UVSP,16.0,0.36,-0.12,595841216,Banks - Regional
+EIG,6.25,5.9,-2.39,1071524352,Insurance - Specialty
+PI,100.0,0.42,27.31,2977231360,Communication Equipment
+TCBK,3.37,1.62,7.76,1155068416,Banks - Regional
+FRBA,82.61,4.33,1.84,341813280,Banks - Regional
+ESI,5.88,4.03,0.0,5550037504,Specialty Chemicals
+ATR,8.59,0.35,-0.13,9140969472,Medical Instruments & Supplies
+CHE,8.13,0.79,11.37,8890601472,Medical Care Facilities
+WSBC,-4.84,0.34,4.81,1696383744,Banks - Regional
+NLY,1.54,113.74,0.84,9461513216,REIT - Mortgage
+AGR,-35.71,0.6,-0.03,11750103040,Utilities - Regulated Electric
+TROX,-260.0,7.06,1.62,2133966336,Chemicals
+FIBK,7.69,2.92,7.1,2654678784,Banks - Regional
+AEM,2.33,4.56,-4.85,23382446080,Gold
+ATNI,-14.29,0.32,-7.97,530036928,Telecom Services
+FSBW,0.89,1.75,0.42,265363856,Banks - Regional
+PCB,0.0,1.02,3.15,228309008,Banks - Regional
+INBK,0.0,2.84,4.94,279475072,Banks - Regional
+CASH,4.62,2.44,5.99,1313540864,Banks - Regional
+LOB,79.59,10.2,8.05,1725366400,Banks - Regional
+LXFR,0.0,0.41,-5.92,209862016,Specialty Industrial Machinery
+EGBN,22.97,4.18,9.93,702353792,Banks - Regional
+TNET,34.51,10.38,-8.03,5688749568,Staffing & Employment Services
+ICLR,0.61,0.29,4.46,22926424064,Diagnostics & Research
+KALU,15.0,1.83,-10.55,1038540864,Aluminum
+TER,11.11,2.83,-8.35,15641051136,Semiconductor Equipment & Materials
+ALSN,2.33,3.68,-12.43,5521206272,Auto Parts
+ROL,16.67,1.53,10.65,21166977024,Personal Services
+FTAI,-13.16,5.2,10.72,5401825792,Rental & Leasing Services
+CVBF,5.0,2.86,4.13,2393946880,Banks - Regional
+SLM,-66.67,4.63,0.85,4317880320,Credit Services
+ASGN,7.69,0.61,8.25,4510900736,Information Technology Services
+BKR,7.69,1.93,0.09,29288992768,Oil & Gas Equipment & Services
+NTGR,483.33,7.58,16.71,390527328,Communication Equipment
+LC,25.0,0.59,-0.19,952846912,Credit Services
+FLS,21.95,7.31,0.96,5445173248,Specialty Industrial Machinery
+CP,1.47,0.07,2.97,79612657664,Railroads
+PLXS,14.29,0.38,10.76,2693245184,Electronic Components
+UHS,8.97,0.93,1.61,11053061120,Medical Care Facilities
+VMI,9.0,4.54,-13.43,4979274752,Conglomerates
+MPB,-14.93,2.9,1.98,345064416,Banks - Regional
+WH,4.8,1.81,-1.63,6628656128,Lodging
+CACI,-3.54,9.63,0.43,8041355264,Information Technology Services
+CYH,-106.25,1.66,-16.73,532155872,Medical Care Facilities
+WU,13.16,6.26,-14.01,4370735104,Credit Services
+FLEX,17.24,0.61,8.29,11223994368,Electronic Components
+EG,38.9,4.94,-0.43,15384492032,Insurance - Reinsurance
+CMPR,150.0,1.72,-3.6,2345086208,Advertising Agencies
+IEX,12.17,0.45,-0.22,17257740288,Specialty Industrial Machinery
+GGG,4.11,3.37,5.96,14880350208,Specialty Industrial Machinery
+RJF,-6.58,1.97,1.31,24013135872,Capital Markets
+QCRH,11.03,6.16,1.78,964592192,Banks - Regional
+ORLY,3.47,3.29,7.27,60598054912,Specialty Retail
+ORN,300.0,11.82,-14.44,197870800,Engineering & Construction
+LSTR,0.59,0.56,-1.16,6890822656,Integrated Freight & Logistics
+GL,2.26,0.07,4.77,11853309952,Insurance - Life
+EQT,350.0,4.48,-0.94,14293776384,Oil & Gas E&P
+URI,3.62,2.33,-0.1,43698057216,Rental & Leasing Services
+MOH,3.7,2.94,-0.81,22659461120,Healthcare Plans
+BELFB,30.25,0.43,35.38,897720384,Electronic Components
+FBNC,8.96,0.21,10.05,1458993920,Banks - Regional
+AMSF,-4.69,0.24,-2.0,955056832,Insurance - Specialty
+EW,0.0,0.07,-9.13,52037681152,Medical Devices
+BRKL,-3.7,2.14,-3.67,902712000,Banks - Regional
+IBM,3.77,0.13,5.19,170150592512,Information Technology Services
+CCS,62.26,10.92,3.94,2797435904,Residential Construction
+CNMD,8.43,1.12,4.87,2672981248,Medical Devices
+MXL,-33.33,3.27,-21.81,1559876864,Semiconductors
+MAT,24.14,4.97,-5.17,6672570880,Leisure
+NOVA,-55.88,0.6,10.53,1429818880,Solar
+RBBN,-28.57,7.33,-4.08,539233344,Telecom Services
+FBIN,11.22,1.18,-0.75,10103992320,Building Products & Equipment
+WHR,24.43,1.48,-17.3,6060453376,"Furnishings, Fixtures & Appliances"
+HBNC,5.71,2.08,-0.63,552209664,Banks - Regional
+OBK,10.94,5.01,8.71,937329536,Banks - Regional
+ENSG,1.69,0.2,0.52,6737551872,Medical Care Facilities
+NOW,14.51,0.76,5.91,166652706816,Software - Application
+KLAC,6.49,1.53,1.23,87875051520,Semiconductor Equipment & Materials
+ETD,-12.5,2.56,-6.01,779767744,"Furnishings, Fixtures & Appliances"
+META,21.27,2.07,-2.82,1193404268544,Internet Content & Information
+ALGN,-5.31,3.46,-29.81,22698713088,Medical Devices
+WCN,2.63,0.22,-2.66,40375238656,Waste Management
+GSHD,48.39,2.22,-7.7,3067444736,Insurance - Diversified
+HSII,7.35,2.94,5.6,604672064,Staffing & Employment Services
+SEIC,0.0,1.12,-0.94,8743014400,Asset Management
+CFFN,33.33,2.75,21.5,817108672,Banks - Regional
+HTBI,11.39,1.48,5.15,462149120,Banks - Regional
+NSC,-3.28,0.97,2.55,57561509888,Railroads
+LKFN,6.52,0.73,2.43,1679945344,Banks - Regional
+FMNB,2.56,1.58,5.91,524291936,Banks - Regional
+R,5.92,3.18,2.52,5191015936,Rental & Leasing Services
+UBSI,7.58,2.22,9.3,4758301184,Banks - Regional
+FTV,-1.16,1.4,-0.26,29002889216,Scientific & Technical Instruments
+IMAX,66.67,6.93,-7.0,767775872,Entertainment
+MNRO,5.13,3.55,-4.13,981087936,Auto Parts
+SYBT,1.1,0.76,2.03,1373730944,Banks - Regional
+MHO,12.88,1.95,4.61,3407545344,Residential Construction
+HES,32.26,9.88,-6.93,44928077824,Oil & Gas E&P
+BA,-1.56,0.82,0.44,127652577280,Aerospace & Defense
+ROP,2.61,1.61,0.78,58779873280,Software - Application
+SLGN,1.75,7.88,-1.5,4775370240,Packaging & Containers
+OPCH,6.9,0.07,-13.34,5797497856,Medical Care Facilities
+ODFL,6.92,1.56,-3.54,47500595200,Trucking
+ADP,2.46,0.2,-4.98,103141384192,Staffing & Employment Services
+HCSG,0.0,2.75,-1.96,697134528,Medical Care Facilities
+TDY,6.32,1.67,-2.34,20479576064,Scientific & Technical Instruments
+GD,5.92,6.39,0.94,74012958720,Aerospace & Defense
+CME,1.81,0.01,2.78,73830350848,Financial Data & Stock Exchanges
+TMUS,4.0,0.49,0.44,192498450432,Telecom Services
+PRG,45.16,2.36,-15.65,1479860864,Rental & Leasing Services
+LTH,0.0,0.16,-15.57,2684914688,Leisure
+MCO,3.4,0.64,-3.45,74148954112,Financial Data & Stock Exchanges
+EVR,-0.76,1.51,0.14,6724182528,Capital Markets
+USAP,33.33,0.57,20.33,178590960,Steel
+CNX,34.62,7.87,-0.64,3066187520,Oil & Gas E&P
+AVY,1.45,1.21,3.39,16490393600,Packaging & Containers
+OMF,3.97,0.8,-3.26,5369300992,Credit Services
+CSTM,6.82,6.9,5.05,2813070080,Aluminum
+MSM,1.23,2.89,-0.16,5558259712,Industrial Distribution
+MKTX,-2.01,0.64,-7.15,8507554304,Capital Markets
+PB,0.84,0.04,9.25,5931665408,Banks - Regional
+WAB,16.44,6.2,3.41,24496470016,Railroads
+OTIS,9.2,1.2,2.81,36928843776,Specialty Industrial Machinery
+TMHC,6.58,0.8,-0.62,5792575488,Residential Construction
+TMO,1.97,0.04,5.15,212848902144,Diagnostics & Research
+HLT,0.0,2.57,1.7,49057869824,Lodging
+GBX,-8.91,1.02,4.03,1493912960,Railroads
+PROV,-10.71,2.03,-2.85,100367880,Banks - Regional
+TNL,5.48,1.33,5.19,2968508416,Travel Services
+OC,9.79,1.68,2.22,14174671872,Building Products & Equipment
+IART,-2.56,1.35,2.63,3316999168,Medical Devices
+DB,15.09,3.58,2.61,25196621824,Banks - Regional
+LAD,-7.22,1.55,0.92,8340884992,Auto & Truck Dealerships
+GPI,6.63,3.31,7.6,3780104192,Auto & Truck Dealerships
+VRT,18.18,0.5,-5.46,24229195776,Electrical Equipment & Parts
+CHMG,2.54,8.76,1.61,208415360,Banks - Regional
+VIST,11.21,7.99,-7.69,2981655040,Oil & Gas E&P
+CB,17.58,7.04,3.0,100859215872,Insurance - Property & Casualty
+RRC,53.33,4.8,-1.03,6867542016,Oil & Gas E&P
+BUSE,7.84,0.66,3.57,1290502272,Banks - Regional
+FCF,-2.5,0.51,0.91,1363235328,Banks - Regional
+AVBH,0.0,5.43,-0.57,143744640,Banks - Regional
+WM,1.24,1.15,4.52,76321914880,Waste Management
+WFRD,44.35,1.42,-2.67,7072483840,Oil & Gas Equipment & Services
+MSA,21.92,9.56,6.99,7000931328,Security & Protection Services
+RNST,8.7,0.98,0.12,1778023424,Banks - Regional
+TRMK,-7.25,1.51,-2.18,1656251008,Banks - Regional
+FFIV,8.7,0.77,1.61,10973825024,Software - Infrastructure
+VBTX,-6.25,2.3,-0.69,1098170880,Banks - Regional
+NTB,3.57,1.09,-5.3,1411355776,Banks - Diversified
+AMED,-9.26,0.99,-0.75,3064600576,Medical Care Facilities
+PGC,-18.03,1.81,-6.52,420078048,Banks - Regional
+TXN,-0.55,0.77,-3.44,147668369408,Semiconductors
+LRN,128.21,5.25,25.83,2712993536,Education & Training Services
+SNAP,150.0,7.72,0.73,18322055168,Internet Content & Information
+FFBC,0.0,2.15,-2.89,2110231808,Banks - Regional
+NBTB,33.33,2.26,6.32,1613702400,Banks - Regional
+PFC,21.05,3.82,4.64,721388736,Banks - Regional
+JBT,12.12,3.67,6.15,3288300800,Specialty Industrial Machinery
+TDOC,5.41,0.37,-11.17,3410473984,Health Information Services
+ENVA,-25.0,3.48,-14.01,1615619712,Credit Services
+CSGP,0.0,0.16,-4.01,33947215872,Real Estate Services
+MTDR,16.98,10.75,-5.95,6602430464,Oil & Gas E&P
+MSFT,12.83,3.9,1.81,3124871299072,Software - Infrastructure
+FCBC,18.18,1.29,14.54,622605760,Banks - Regional
+CHX,-16.33,2.3,-10.85,5539988992,Oil & Gas Equipment & Services
+HAFC,1.64,5.45,-2.2,469803808,Banks - Regional
+ORRF,6.1,0.73,0.57,279318368,Banks - Regional
+CNI,-2.33,1.38,-0.08,82374811648,Railroads
+SPFI,21.88,1.0,6.87,437023200,Banks - Regional
+GOOG,6.9,1.45,-9.64,1821642850304,Internet Content & Information
+V,4.48,0.65,0.08,566471426048,Credit Services
+FVCB,-12.0,13.16,-1.17,209410320,Banks - Regional
+GOOGL,6.9,1.45,-9.7,1821525016576,Internet Content & Information
+RHI,12.5,1.92,1.52,8592320512,Staffing & Employment Services
+NBHC,6.82,0.41,4.9,1305846144,Banks - Regional
+WNEB,40.0,4.4,3.62,173984400,Banks - Regional
+HA,-16.48,2.08,3.1,727558272,Airlines
+BYD,-5.56,3.41,-8.38,6532294656,Resorts & Casinos
+USNA,-7.81,0.53,-15.86,973515520,Packaged Foods
+CZWI,0.0,6.42,-2.0,121319768,Banks - Regional
+MANH,36.36,5.35,1.83,15422332928,Software - Application
+UMBF,14.77,0.44,1.63,3965413376,Banks - Regional
+THFF,16.1,3.46,5.49,447148448,Banks - Regional
+EBMT,-2.86,0.82,1.56,104779312,Banks - Regional
+NVR,11.06,2.99,-1.89,23919071232,Residential Construction
+FELE,-3.15,6.12,3.35,4588823552,Specialty Industrial Machinery
+HONE,25.0,1.07,4.33,472172448,Banks - Regional
+GATX,-5.88,3.81,-1.71,4515868672,Rental & Leasing Services
+SFNC,14.71,1.99,-6.37,2278348800,Banks - Regional
+ONB,4.08,2.32,0.52,4726378496,Banks - Regional
+IBCP,31.75,7.08,-1.85,512972480,Banks - Regional
+ITW,4.51,1.18,-0.86,76951601152,Specialty Industrial Machinery
+PCAR,13.04,2.1,0.72,55475036160,Farm & Heavy Construction Machinery
+LCNB,-7.5,3.11,8.69,186274704,Banks - Regional
+AROW,39.39,2.34,20.04,411702752,Banks - Regional
+NEP,18.75,11.98,15.01,2624518912,Utilities - Renewable
+NEE,9.3,3.77,5.07,116085751808,Utilities - Regulated Electric
+HOUS,-11.76,0.55,9.34,819820992,Real Estate Services
+RTX,5.04,1.3,-0.23,120794644480,Aerospace & Defense
+HCA,-1.51,2.8,2.1,81989918720,Medical Care Facilities
+ABG,-3.79,1.51,-0.62,4443072000,Auto & Truck Dealerships
+CHCO,3.66,0.91,4.06,1510470400,Banks - Regional
+SMPL,2.27,0.04,16.87,3581255424,Packaged Foods
+SASR,10.71,1.96,-1.75,1033012800,Banks - Regional
+FI,1.03,0.53,-0.18,86564823040,Information Technology Services
+GLW,-2.17,1.22,4.18,27335727104,Electronic Components
+ARCC,1.72,0.02,-0.58,11686980608,Asset Management
+CCBG,-6.02,5.0,-4.64,487109024,Banks - Regional
+KMB,10.13,0.06,-2.43,40516984832,Household & Personal Products
+IVZ,-2.78,0.19,0.08,7152408064,Asset Management
+GTX,4.55,3.52,-4.41,2012086016,Auto Parts
+ADM,8.67,6.56,-0.36,28295860224,Farm Products
+SHW,15.52,1.87,-3.91,79899893760,Specialty Chemicals
+KO,7.25,4.39,0.9,258669674496,Beverages - Non-Alcoholic
+VZ,4.27,0.16,4.43,167785627648,Telecom Services
+TZOO,77.78,10.9,19.93,120268104,Advertising Agencies
+PNR,8.05,1.82,-4.54,12311471104,Specialty Industrial Machinery
+DGX,1.37,1.66,5.5,14123271168,Diagnostics & Research
+CBU,-6.82,1.59,7.0,2393315840,Banks - Regional
+TRU,-4.21,1.36,-22.04,13405976576,Consulting Services
+MMM,14.53,4.52,-0.65,51511656448,Conglomerates
+GM,23.91,1.93,-3.63,44618932224,Auto Manufacturers
+HAL,2.6,0.59,-3.92,31180265472,Oil & Gas Equipment & Services
+XRX,35.29,3.46,-11.28,2275700992,Information Technology Services
+DOV,0.0,2.82,-5.55,22456541184,Specialty Industrial Machinery
+PHM,4.32,1.0,4.29,21902770176,Residential Construction
+SPOT,280.0,1.23,-0.8,47466123264,Internet Content & Information
+BANC,-3.23,50.75,-7.0,2236924416,Banks - Regional
+PEBO,17.78,5.37,7.23,1005762624,Banks - Regional
+SYF,2.78,1.58,-2.31,15818067968,Credit Services
+AWI,23.08,4.88,0.62,4632304640,Building Products & Equipment
+DOW,11.63,0.5,-0.19,37916798976,Chemicals
+PII,-0.37,0.28,-5.06,5142404096,Recreational Vehicles
+PPBI,-14.29,3.97,-5.25,2335151872,Banks - Regional
+DHR,10.38,3.95,-4.56,181746991104,Diagnostics & Research
+CNC,26.58,5.13,-6.34,41331650560,Healthcare Plans
+TECK,-25.97,3.29,-4.6,19718557696,Other Industrial Metals & Mining
+HLX,0.0,11.02,-4.17,1439913984,Oil & Gas Equipment & Services
+KREF,4.44,5.24,-0.48,672344320,REIT - Mortgage
+TFII,-9.77,1.04,-8.92,12228224000,Trucking
+BRO,16.39,3.89,0.12,23052439552,Insurance Brokers
+SMBC,6.42,4.03,2.27,487356160,Banks - Regional
+IBTX,11.27,3.41,0.3,1870895744,Banks - Regional
+SMBK,-8.51,18.46,-2.17,373755808,Banks - Regional
+AAN,-83.33,2.16,-21.95,316940768,Rental & Leasing Services
+PRK,21.28,4.87,6.93,2122542976,Banks - Regional
+PKG,6.77,1.2,3.69,15086458880,Packaging & Containers
+CATY,0.89,1.89,0.69,2889315072,Banks - Regional
+NUE,7.28,2.85,5.16,45858807808,Steel
+FUNC,6.35,0.48,0.37,147564880,Banks - Regional
+CALX,25.0,0.26,-23.97,2281632768,Software - Application
+HSTM,62.5,0.38,11.04,821034496,Health Information Services
+WASH,16.07,3.66,-11.39,449277760,Banks - Regional
+CCK,-0.57,6.39,2.17,9022964736,Packaging & Containers
+RBB,34.04,9.19,-2.49,332546432,Banks - Regional
+HXL,-9.52,2.63,-7.91,6151041024,Aerospace & Defense
+MEDP,8.82,3.41,9.01,10014755840,Diagnostics & Research
+WSFS,16.04,4.28,-0.38,2558941184,Banks - Regional
+CCNE,7.14,0.18,2.06,431719616,Banks - Regional
+CLF,22.73,3.41,11.08,9901002752,Steel
+EFSC,-5.65,0.09,-1.95,1493272576,Banks - Regional
+WRB,18.42,1.39,3.14,20646742016,Insurance - Property & Casualty
+CBNK,25.0,1.13,3.04,288891872,Banks - Regional
+CDNS,4.13,1.66,-3.43,84867022848,Software - Application
+RLI,510.0,7.24,-1.79,6433870848,Insurance - Property & Casualty
+TRST,1.32,1.05,-3.1,531161248,Banks - Regional
+AGYS,31.58,3.0,25.19,2476036864,Software - Application
+HRI,-2.44,2.1,-1.87,4286513920,Rental & Leasing Services
+CZFS,2.55,2.35,2.99,241703936,Banks - Regional
+NWBI,24.0,2.92,6.22,1513880064,Banks - Regional
+ESQ,3.54,2.85,2.85,393507104,Banks - Regional
+BMRC,0.0,0.56,-3.56,283256768,Banks - Regional
+BSRR,-1.45,0.05,-5.66,277383744,Banks - Regional
+MNSB,0.0,7.56,2.24,139407824,Banks - Regional
+BOH,21.88,7.21,1.15,2453406976,Banks - Regional
+HOPE,-3.85,3.0,4.38,1296170368,Banks - Regional
+HBT,6.78,1.76,-6.26,604121920,Banks - Regional
+PBAM,2.08,0.35,6.25,205258912,Banks - Regional
+OFG,3.26,1.29,-4.42,1708459520,Banks - Regional
+WRLD,88.19,0.64,-25.1,795179008,Credit Services
+BHLB,2.04,0.44,-3.6,989212736,Banks - Regional
+IPG,-6.67,3.26,-0.86,12179523584,Advertising Agencies
+FBP,21.05,0.17,-4.25,2854448896,Banks - Regional
+HBAN,12.5,3.56,0.94,17973651456,Banks - Regional
+AXP,11.49,0.22,-0.94,153615810560,Credit Services
+SLB,1.3,0.08,-5.66,68196319232,Oil & Gas Equipment & Services
+CMA,8.24,1.72,-2.78,6772962304,Banks - Regional
+ALV,-4.6,1.37,3.32,9090674688,Auto Parts
+RF,-16.95,1.65,-0.28,16632000512,Banks - Regional
+EEFT,0.74,2.42,-7.16,4792013312,Software - Infrastructure
+ISBA,-19.44,9.15,0.0,153021360,Banks - Regional
+ISTR,3.13,4.28,-10.16,167471840,Banks - Regional
+AMTB,4.92,3.22,-7.84,765474368,Banks - Regional
+TFIN,37.84,2.64,-0.69,1862327808,Banks - Regional
+HTH,32.56,0.93,-3.47,2013879168,Banks - Regional
+WAL,3.14,8.68,-13.57,6740314112,Banks - Regional
+GBCI,9.3,0.04,-2.35,4159862016,Banks - Regional
+BCML,1.82,4.19,-4.26,231141520,Banks - Regional
+SRCE,16.81,5.15,1.79,1246408960,Banks - Regional
+ASB,0.0,0.67,-6.65,3059532032,Banks - Regional
+INDB,3.76,2.36,-5.26,2269707264,Banks - Regional
+MYFW,-27.27,8.54,-22.52,151191024,Banks - Regional
+OCFC,-13.51,0.07,-11.81,935112320,Banks - Regional
+SFST,54.55,4.71,-2.83,274932896,Banks - Regional
+BANF,2.7,1.37,-2.81,2921815808,Banks - Regional
+KNX,5.13,5.46,4.5,9670853632,Trucking
+FFIN,-5.41,2.84,-4.29,4515565568,Banks - Regional
+MCB,11.93,3.1,-4.77,470164736,Banks - Regional
+ISRG,3.55,1.37,-3.79,136780005376,Medical Instruments & Supplies
+CSX,0.0,0.25,-4.21,73255051264,Railroads
+OZK,3.47,2.23,-0.95,4814490112,Banks - Regional
+CVCY,1.89,0.61,-6.34,208705872,Banks - Regional
+WABC,4.03,3.95,1.24,1202862080,Banks - Regional
+HOMB,0.0,0.08,-6.73,4776166400,Banks - Regional
+BCBP,-22.0,4.12,-17.49,179768160,Banks - Regional
+BMI,15.79,7.76,-2.25,4398513664,Scientific & Technical Instruments
+CASS,-1.82,2.38,-0.19,595390720,Specialty Business Services
+FCX,21.88,5.39,-4.7,54663282688,Copper
+HFWA,15.91,0.23,-6.55,642274048,Banks - Regional
+EWBC,0.5,0.93,2.01,9719275520,Banks - Diversified
+UNP,2.45,1.02,-6.11,152064229376,Railroads
+AMNB,-21.74,4.01,-5.61,480736000,Banks - Regional
+STBA,-3.33,2.19,-5.05,1219244032,Banks - Regional
+MAN,2.99,0.66,-0.83,3559625728,Staffing & Employment Services
+WBS,3.33,2.0,-6.19,8040308736,Banks - Regional
+BX,-4.08,8.27,-5.58,155528282112,Asset Management
+WSO,0.93,3.56,-5.47,16025775104,Industrial Distribution
+PM,3.73,0.76,-1.56,138355245056,Tobacco
+MMC,13.77,3.68,-1.48,97371725824,Insurance Brokers
+AAL,46.15,0.27,-2.73,9781382144,Airlines
+IRDM,-133.33,1.1,-12.15,4313730560,Telecom Services
+GPC,3.75,1.08,-9.73,20073404416,Specialty Retail
+POOL,2.64,1.74,-8.66,14981604352,Industrial Distribution
+FITB,12.2,0.09,-6.95,22919856128,Banks - Regional
+BKU,-11.27,1.33,-6.27,1992439296,Banks - Regional
+LNN,51.3,3.74,1.24,1439642752,Farm & Heavy Construction Machinery
+AUB,5.26,0.7,-6.94,2520782592,Banks - Regional
+KEY,7.41,0.43,-10.0,13008873472,Banks - Regional
+SNA,2.73,1.8,-1.12,14041054208,Tools & Accessories
+TFC,2.44,0.04,-4.08,47801241600,Banks - Regional
+ALK,-2.66,1.29,-4.47,4689287168,Airlines
+DCOM,1.82,2.58,-12.08,753166208,Banks - Regional
+TCBI,14.56,4.13,-5.77,2804514048,Banks - Regional
+SARTF,-23.65,3.16,0.0,22886100992,Medical Instruments & Supplies
+SNV,-2.33,1.43,-7.68,5276978688,Banks - Regional
+HBCP,19.61,2.86,4.32,304467008,Banks - Regional
+FNB,11.11,1.26,-5.56,4718601216,Banks - Regional
+EFX,-1.12,0.69,-5.51,31078975488,Consulting Services
+OSBC,1.85,0.79,-2.49,599845824,Banks - Regional
+ZION,2.73,0.85,-17.81,5939453440,Banks - Regional
+LBRT,14.86,6.98,4.16,3294600448,Oil & Gas Equipment & Services
+STLD,-0.57,0.73,-3.46,20225382400,Steel
+DFS,-17.78,2.53,-12.04,27301332992,Credit Services
+KMI,-3.85,8.13,-2.83,36964724736,Oil & Gas Midstream
+GSBC,9.92,0.2,-2.18,601198080,Banks - Regional
+MCRI,-5.48,1.7,-4.25,1350168832,Resorts & Casinos
+LRCX,12.85,2.11,-5.33,119510876160,Semiconductor Equipment & Materials
+NFLX,7.8,0.11,17.87,242916851712,Entertainment
+LVS,3.77,4.0,5.77,40409157632,Resorts & Casinos
+PPG,6.15,0.5,-5.3,32912963584,Specialty Chemicals
+TSLA,-8.33,4.23,-14.32,616479850496,Auto Manufacturers
+AA,-0.89,0.42,-13.51,4945447424,Aluminum
+COLB,11.27,0.38,-8.89,3929553152,Banks - Regional
+BANR,4.38,1.64,-8.11,1528160384,Banks - Regional
+FCCO,-41.03,6.21,-2.29,130826128,Banks - Regional
+CTBI,13.86,3.39,2.78,722331968,Banks - Regional
+UNF,1.74,0.61,5.47,3202609152,Specialty Business Services
+STT,9.04,7.71,-6.17,21993598976,Asset Management
+MS,8.66,1.48,-6.37,140972113920,Capital Markets
+ABT,3.64,3.6,-1.24,195185590272,Medical Devices
+ALLY,3.75,3.53,-10.15,10945988608,Credit Services
+NTRS,-0.67,0.3,-8.1,16336234496,Asset Management
+NDAQ,5.97,1.2,-3.57,33031245824,Financial Data & Stock Exchanges
+WGO,20.45,0.45,1.47,1989931392,Recreational Vehicles
+TRV,-33.45,1.89,-6.97,48948899840,Insurance - Property & Casualty
+PG,7.02,1.03,0.52,373283717120,Household & Personal Products
+UCBI,-2.17,4.84,-12.32,3241832448,Banks - Regional
+SCL,-15.79,6.88,13.56,2018434176,Specialty Chemicals
+USB,0.96,0.15,-9.43,62896566272,Banks - Regional
+FHN,8.0,2.89,-2.59,7705433088,Banks - Regional
+MTB,2.79,0.44,-10.7,22152644608,Banks - Regional
+CFG,-7.61,1.43,-8.28,14692166656,Banks - Regional
+ELV,6.39,0.12,-5.9,118908051456,Healthcare Plans
+CBSH,3.23,0.72,-6.17,6659804160,Banks - Regional
+AMX,-87.1,4.19,-1.18,54270586880,Telecom Services
+WTFC,4.12,1.49,-0.98,5748936704,Banks - Regional
+WAFD,-20.88,4.59,-5.91,1826227840,Banks - Regional
+EQBK,5.26,2.3,-3.67,501417408,Banks - Regional
+FULT,7.5,2.05,0.08,2542191360,Banks - Regional
+BHB,8.96,2.71,-0.13,387948032,Banks - Regional
+HWC,9.8,0.14,-4.7,3713978368,Banks - Regional
+PFBC,6.27,3.44,-3.66,951583936,Banks - Regional
+BFC,-0.68,0.22,-7.42,881137152,Banks - Regional
+OMC,0.54,0.29,-0.3,17152144384,Advertising Agencies
+UAL,7.35,0.29,-10.32,13884875776,Airlines
+IBKR,4.73,4.99,-6.56,40871407616,Capital Markets
+JBHT,-2.7,1.87,-12.25,22252167168,Integrated Freight & Logistics
+PNFP,4.68,2.15,-8.94,6267077632,Banks - Regional
+LMT,1.65,1.29,2.2,103181869056,Aerospace & Defense
+GS,2.82,7.42,-4.52,125566189568,Capital Markets
+CATC,8.49,2.59,-7.25,528783328,Banks - Regional
+BAC,11.11,0.33,-5.47,261497716736,Banks - Diversified
+BK,11.4,1.76,1.2,41930977280,Asset Management
+JNJ,5.56,1.67,-2.94,377365233664,Drug Manufacturers - General
+MBWM,11.11,8.33,1.19,613582848,Banks - Regional
+CFB,12.12,1.01,5.81,672448320,Banks - Regional
+FBK,0.0,11.22,4.79,1709516416,Banks - Regional
+SFBS,2.08,1.35,-11.11,3407662336,Banks - Regional
+SCHW,2.67,0.79,0.51,113856249856,Capital Markets
+GNTY,-1.82,2.48,3.85,342986624,Banks - Regional
+PGR,22.22,0.3,5.2,107086528512,Insurance - Property & Casualty
+C,20.63,4.22,-6.75,103319044096,Banks - Diversified
+JPM,11.31,1.89,-2.16,503451222016,Banks - Diversified
+WFC,11.2,3.18,0.86,174005092352,Banks - Diversified
+PNC,13.21,1.36,-2.86,58880434176,Banks - Regional
+BLK,28.81,0.71,-0.9,118385688576,Asset Management
+UNTY,8.99,2.12,-3.56,274015488,Banks - Regional
+UNH,3.63,1.02,-0.3,481044398080,Healthcare Plans
+CMTL,61.11,6.2,19.58,174539488,Communication Equipment
+SGH,-22.22,15.57,-39.73,1184317824,Semiconductors
+NRIX,1.45,7.57,-20.0,429258656,Biotechnology
+BYRN,-333.33,1.21,51.66,216499680,Aerospace & Defense
+WBA,-1.47,2.5,-10.34,19437938688,Pharmaceutical Retailers
+CMC,-8.15,5.41,-9.3,6297754624,Steel
+FAST,1.96,0.18,0.15,40067756032,Industrial Distribution
+DAL,5.73,1.29,-10.46,26066683904,Airlines
+DPZ,27.05,2.34,-4.03,14879510528,Restaurants
+RELL,200.0,2.9,-3.88,134646128,Electronic Components
+NEOG,-21.43,1.23,-10.42,3583405824,Diagnostics & Research
+PEP,3.69,0.32,-1.93,239033696256,Beverages - Non-Alcoholic
+SAR,5.88,0.34,-1.0,314440128,Asset Management
+APLD,-400.0,4.27,-7.07,643787392,Capital Markets
+CAMP,-100.0,11.01,-38.64,4556318,Communication Equipment
+LEVI,3.7,2.26,8.23,7096005120,Apparel Manufacturing
+AEHR,-10.0,5.39,-10.75,496494720,Semiconductor Equipment & Materials
+LW,49.54,4.45,-7.23,14564288512,Packaged Foods
+CAG,10.0,1.42,6.09,13431945216,Packaged Foods
+STZ,9.47,0.46,-1.75,44434432000,Beverages - Wineries & Distilleries
+ACCD,23.21,2.65,-14.82,1041906304,Health Information Services
+RGP,66.67,0.72,-3.3,442978400,Consulting Services
+TLRY,-100.0,1.04,-10.13,1419608576,Drug Manufacturers - Specialty & Generic
+ANGO,14.29,1.32,-7.74,245109712,Medical Instruments & Supplies
+RPM,5.13,2.46,-1.72,13893690368,Specialty Chemicals
+HELE,8.75,1.26,7.69,2766930432,Household & Personal Products
+AYI,11.2,0.72,0.55,7450886144,Electrical Equipment & Parts
+MKC,0.0,0.41,-9.63,17652942848,Packaged Foods
+CCL,17.81,2.06,-9.22,20495497216,Travel Services
+BB,-100.0,0.0,-12.86,1638982656,Software - Infrastructure
+NKE,27.03,0.09,7.62,157224435712,Footwear & Accessories
+MTN,-3.4,4.29,-9.53,8506796544,Resorts & Casinos
+BSET,49.15,0.31,4.3,135692816,"Furnishings, Fixtures & Appliances"
+DYNT,-85.29,5.02,1.43,2407013,Medical Devices
+JBL,6.06,0.47,16.75,17827104768,Electronic Components
+ACN,3.44,0.52,2.53,233034121216,Information Technology Services
+KMX,0.0,0.95,-3.13,11810911232,Auto & Truck Dealerships
+SANG,20.0,1.76,-12.6,112231392,Software - Infrastructure
+WOR,3.52,11.81,-11.8,3129649408,Metal Fabrication
+JEF,-5.88,5.87,-3.66,8655506432,Capital Markets
+CNXC,-1.81,0.62,9.34,5564852736,Information Technology Services
+MU,9.32,2.45,-0.43,94450540544,Semiconductors
+FUL,-9.4,5.68,0.69,4190820352,Specialty Chemicals
+PAYX,1.79,0.12,1.55,44268900352,Staffing & Employment Services
+PRGS,8.0,1.43,-6.42,2516965632,Software - Application
+MLKN,76.19,1.85,21.19,2001046912,"Furnishings, Fixtures & Appliances"
+COST,3.18,0.48,2.17,321374814208,Discount Stores
+AIR,6.85,8.68,-4.49,2245539328,Aerospace & Defense
+CTAS,1.37,0.75,-3.0,62669578240,Specialty Business Services
+SNX,12.55,99.9,1.02,8871910400,Electronics & Computer Distribution
+UNFI,46.81,0.12,-12.72,992113664,Food Distribution
+SCHL,-62.96,14.99,-1.83,1147323136,Publishing
+DRI,2.89,0.98,-5.42,20082483200,Restaurants
+FDS,-16.05,0.16,3.15,18189682688,Financial Data & Stock Exchanges
+FDX,22.97,0.71,3.87,60629037056,Integrated Freight & Logistics
+KBH,30.43,8.86,-6.8,4620300288,Residential Construction
+GIS,0.93,0.82,-1.95,36379066368,Packaged Foods
+SCS,82.35,3.29,25.71,1468897024,Business Equipment & Supplies
+DAVA,26.79,0.2,23.28,4037372672,Software - Infrastructure
+AZO,4.38,1.96,5.37,47235534848,Specialty Retail
+APOG,34.65,3.51,-5.24,1217330688,Building Products & Equipment
+ICMB,6.67,6.12,-7.93,51101984,Asset Management
+SFIX,13.64,1.15,-2.8,406725440,Apparel Retail
+LEN,12.68,2.4,-0.45,42674065408,Residential Construction
+ADBE,3.02,0.72,-2.78,283498938368,Software - Infrastructure
+RFIL,-200.0,27.03,-19.18,33305104,Electrical Equipment & Parts
+CPRT,9.68,5.01,-1.03,48933416960,Specialty Business Services
+EGAN,83.33,3.86,2.58,238282240,Software - Application
+IPW,-233.33,8.83,0.65,17531232,Internet Retail
+HITI,25.0,4.52,-4.15,136743280,Pharmaceutical Retailers
+IPA,35.29,7.09,-9.13,56841052,Biotechnology
+SMTC,450.0,0.55,10.54,1349980800,Semiconductors
+RSSS,200.0,2.68,4.62,93944480,Software - Application
+IBEX,-32.65,1.39,-21.78,311775136,Information Technology Services
+JYNT,-133.33,1.8,1.47,156690672,Medical Care Facilities
+CBRL,6.55,0.7,-8.47,1789940608,Restaurants
+REVG,40.0,9.16,7.86,1035266496,Farm & Heavy Construction Machinery
+INNV,-200.0,1.06,5.22,770547392,Medical Care Facilities
+MAMA,150.0,6.4,-5.62,164773408,Packaged Foods
+FARM,-37.7,0.35,21.54,76313984,Packaged Foods
+CASY,34.52,0.45,15.29,10629415936,Specialty Retail
+AVO,-21.05,6.85,3.09,746905600,Food Distribution
+ORCL,4.39,0.0,-10.32,320743669760,Software - Infrastructure
+SKIL,10.0,0.93,-9.68,105245056,Education & Training Services
+VIRC,48.44,12.73,15.31,189682208,"Furnishings, Fixtures & Appliances"
+FCEL,25.0,1.12,-12.68,618971456,Electrical Equipment & Parts
+KR,4.35,1.16,2.58,32690614272,Grocery Stores
+RENT,6.98,3.62,-16.07,36736056,Apparel Retail
+CDMO,100.0,10.96,-15.49,424967424,Biotechnology
+GWRE,117.65,3.42,8.47,9631749120,Software - Application
+BBCP,6.25,4.73,8.52,439655392,Engineering & Construction
+DOCU,10.77,1.61,-12.91,10437342208,Software - Application
+SMAR,100.0,2.72,9.53,6529434624,Software - Application
+BRZE,71.43,6.12,-0.79,5950606848,Software - Application
+ZUMZ,34.33,2.33,-11.76,363557216,Apparel Retail
+RH,49.43,2.9,-16.12,4757814272,Specialty Retail
+LTRX,20.0,0.78,33.92,217621936,Communication Equipment
+PL,6.67,0.51,-13.33,635654464,Aerospace & Defense
+LMNR,-86.67,8.07,-0.13,323353952,Farm Products
+AOUT,133.33,3.54,-5.34,116300928,Leisure
+TNP,3.12,4.86,-2.9,705774144,Oil & Gas Midstream
+TTC,-22.76,11.36,-6.35,10118253568,Tools & Accessories
+SCWX,37.5,3.32,-5.08,609523712,Software - Infrastructure
+SAIC,28.12,5.43,-4.28,6848301056,Information Technology Services
+ABM,-10.23,0.39,-0.67,2538332672,Specialty Business Services
+MEI,-72.73,7.98,-15.79,749011392,Electronic Components
+KFY,7.61,2.37,-0.91,3099925760,Staffing & Employment Services
+DBI,22.92,0.3,-12.22,539006208,Footwear & Accessories
+DSGX,-3.03,3.46,-1.05,7611216896,Software - Application
+LAKE,39.13,7.37,5.24,133266320,Apparel Manufacturing
+AI,47.06,14.14,-12.32,3312911360,Software - Application
+PATH,200.0,1.93,15.25,13789667328,Software - Infrastructure
+CHPT,-71.43,0.94,-21.69,898760256,Specialty Retail
+CXM,100.0,3.04,-4.98,3519487488,Software - Application
+CTLP,-33.33,1.27,-10.94,457165184,Information Technology Services
+AEO,66.67,1.09,-8.11,4440654336,Apparel Retail
+VRNT,-18.64,6.9,-20.06,2010824576,Software - Infrastructure
+SPWH,-300.0,3.62,-23.62,139921632,Specialty Retail
+CURV,-45.45,0.02,-40.18,527799072,Apparel Retail
+YEXT,0.0,0.67,-27.45,748160192,Software - Infrastructure
+BASE,26.09,3.26,9.96,1342159104,Software - Infrastructure
+GME,80.0,1.83,-9.6,4478835200,Specialty Retail
+PHR,9.33,1.22,-29.8,1552770048,Health Information Services
+PLAY,0.0,2.91,-7.65,2390045952,Entertainment
+CNM,1.54,0.15,-2.45,8467227648,Industrial Distribution
+AKTS,-31.25,0.8,-34.23,67325312,Communication Equipment
+EXPR,18.25,1.2,-3.6,16033994,Apparel Retail
+ZS,30.61,5.71,3.77,37814530048,Software - Infrastructure
+AVAV,150.0,11.01,16.13,3522233344,Aerospace & Defense
+HQY,12.77,1.95,5.93,6830625792,Health Information Services
+ASAN,63.64,2.78,-6.96,4219249152,Software - Application
+PROC,350.0,2.09,-7.04,366678016,Drug Manufacturers - Specialty & Generic
+CRMT,-35.71,0.87,-3.72,420776736,Auto & Truck Dealerships
+AMRK,24.1,39.44,3.44,604958592,Capital Markets
+OXM,-0.29,1.9,-5.93,1534853632,Apparel Manufacturing
+AVGO,1.15,0.22,-2.87,600830836736,Semiconductors
 NTNX,60,3.91,13.57,8357736448,Software—Infrastructure
 S,46.67,5.61,6.71,4985063424,Software—Infrastructure
 MDB,106.67,8.69,0.07,24675241984,Software—Infrastructure
